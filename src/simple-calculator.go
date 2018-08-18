@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/*
+ * simple-calculator program demonstrates different mathemetical
+ * operations in Go along with different way of defining a
+ * variables in Go
+ */
 func main() {
 	// type #1 variable declaration
 	var variableX int = 24
