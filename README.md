@@ -1,11 +1,28 @@
-# go-examples 
-go-examples project contains set of example to learn Golang 
-## Installation
+# go-examples
 
-### Requirement
-* Golang
+The purpose of **go-examples** project is to learn Go programming language through simple programs which will  cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with basics in order to understand any programming language easily, Same concept will be applied with **go-examples** as well. I have started with basics and then slowly moving to complex concepts.  
 
+## Getting Started
+Clone [go-examples](git@github.com:sagar-jadhav/go-examples.git) and open with any text editor or IDE. I prefer [Atom](https://atom.io/) to work with Go programming language.
+
+### Prerequisites
+
+To perform hands-on on **go-examples** it is prerequisite to have Go installed on your machine.
+[Steps to install Go](https://golang.org/doc/install?download)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Pull requests are welcome. I will appreciate any help on either enhancing existing example/program or addition of new example/program.
+
+## Authors
+
+* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+
+## Contents
+
+* [Hello World](https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go)
+* [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
+* [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
+* [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
+* [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
 
