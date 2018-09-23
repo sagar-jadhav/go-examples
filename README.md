@@ -5,7 +5,7 @@ The purpose of **go-examples** project is to learn Go programming language throu
 ## Getting Started
 Clone [go-examples](git@github.com:sagar-jadhav/go-examples.git) and open with any text editor or IDE. I prefer [Atom](https://atom.io/) to work with Go programming language.
 
-### Prerequisites
+## Prerequisites
 
 To perform hands-on on **go-examples** it is prerequisite to have Go installed on your machine.
 [Steps to install Go](https://golang.org/doc/install?download)
