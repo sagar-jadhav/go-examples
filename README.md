@@ -25,4 +25,5 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
 * [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
 * [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
-
+* [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
+* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
