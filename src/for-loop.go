@@ -18,4 +18,25 @@ func main() {
 	for indexB := 51; indexB <= 100; indexB++ {
 		fmt.Println(indexB)
 	}
+
+	// Variation #3 Itteratings over array
+	var numbers [5]int
+
+	numbers[0] = 0
+	numbers[1] = 1
+	numbers[2] = 2
+	numbers[3] = 3
+	numbers[4] = 4
+
+	for index, number := range numbers {
+		fmt.Printf("Number at index [%d] is %d", index, number)
+		fmt.Println()
+	}
+
+	// In case if we don't requre index then we can use '_' as
+	// placeholder for it
+
+	for _, number := range numbers {
+		fmt.Println(number)
+	}
 }
