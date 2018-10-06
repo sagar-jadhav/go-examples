@@ -39,4 +39,15 @@ func main() {
 	for _, number := range numbers {
 		fmt.Println(number)
 	}
+
+	//Special case itterating over Map
+	//Special case when accessing a key from Map
+	//which is not present in Map
+	alphabets := make(map[string]string)
+	alphabets["A"] = "Apple"
+	alphabets["B"] = "Ball"
+
+	for key, value := range alphabets {
+		fmt.Println(key, value)
+	}
 }

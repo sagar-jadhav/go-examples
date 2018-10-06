@@ -29,3 +29,4 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
 * [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
+* [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)

@@ -12,6 +12,15 @@ func main() {
 	evenOdd()
 	// It will demonstrate if-elseif-else statements
 	signToWord()
+
+	//Special case when accessing a key from Map
+	//which is not present in Map
+	alphabets := make(map[string]string)
+	alphabets["A"] = "Apple"
+	if value, isSuccessful := alphabets["A"]; isSuccessful {
+		fmt.Println(value)
+	}
+
 }
 
 func evenOdd() {
