@@ -30,3 +30,5 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
 * [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
 * [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
+* [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
+* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
