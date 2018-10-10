@@ -21,6 +21,10 @@ func main() {
 	sliceB[1] = 2
 	print(sliceB, "sliceB")
 
+	//Creating Slice along with providing values to it
+	slice := []int{1, 2}
+	print(slice, "slice")
+
 	//Creating Slice with low & high expressions
 	array := [9]int{
 		1, 2, 3,
