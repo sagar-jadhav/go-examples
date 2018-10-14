@@ -33,3 +33,4 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 * [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
+* [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
