@@ -39,6 +39,7 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 * [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
+* [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
 
 
 ## Notes
