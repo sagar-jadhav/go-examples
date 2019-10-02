@@ -51,7 +51,7 @@ func main() {
 		fmt.Println(value)
 	}
 
-	//Itterating Over Map
+	//Iterating Over Map
 	//Variation #1
 	for key, value := range alphabets {
 		fmt.Println(key, value)
