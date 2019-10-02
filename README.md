@@ -39,6 +39,9 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 * [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
+* [Panic](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/panic.go)
+* [Defer](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/defer.go)
+* [Recover](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/recover.go)
 
 
 ## Notes
