@@ -42,8 +42,6 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Panic](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/panic.go)
 * [Defer](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/defer.go)
 * [Recover](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/recover.go)
-* [Command Line Arguments](https://github.com/sagar-jadhav/go-examples/blob/master/src/cmd-arguments.go)
-
 
 ## Notes
 - Please give a Star to project. If you find it useful.
