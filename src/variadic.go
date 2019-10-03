@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 /*
- * variadic.go program will demonstrate use of
- * variadic parameters in Go programming language
+ * variadic.go program demonstrates the use of
+ * variadic parameters in the Go programming language
  */
 func main() {
 	//passing zero parameter

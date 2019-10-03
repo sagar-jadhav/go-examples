@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 /*
- * if-elseif-else program will demonstrates the conditional statements
- * in Go programming language. In this program even-odd program will explain
- * if else block and sign to word program  demonstrate if-elseif-else block
+ * if-elseif-else program demonstrates the conditional statements in the
+ * Go programming language. In this program evenOdd function will explain
+ * if else block and signToWord program demonstrates if-elseif-else block
  */
 func main() {
 	// It will demonstrate if-else statements

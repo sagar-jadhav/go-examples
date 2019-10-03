@@ -4,7 +4,7 @@ import "fmt"
 
 /*
  * simple-calculator program demonstrates different mathematical
- * operations in Go along with different way of defining a
+ * operations in Go along with different ways of defining
  * variables in Go
  */
 func main() {
