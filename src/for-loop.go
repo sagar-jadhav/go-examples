@@ -4,7 +4,7 @@ import "fmt"
 
 /*
  * for-loop program demonstrates for loop syntax &
- * usage by priniting number from 1 to 50 & 50 to 100
+ * usage by printing number from 1 to 50 & 50 to 100
  */
 func main() {
 	// Variation #1
@@ -19,7 +19,7 @@ func main() {
 		fmt.Println(indexB)
 	}
 
-	// Variation #3 Itteratings over array
+	// Variation #3 Iterating over array
 	var numbers [5]int
 
 	numbers[0] = 0
@@ -33,14 +33,14 @@ func main() {
 		fmt.Println()
 	}
 
-	// In case if we don't requre index then we can use '_' as
+	// In case if we don't require index then we can use '_' as
 	// placeholder for it
 
 	for _, number := range numbers {
 		fmt.Println(number)
 	}
 
-	//Special case itterating over Map
+	//Special case iterating over Map
 	//Special case when accessing a key from Map
 	//which is not present in Map
 	alphabets := make(map[string]string)
