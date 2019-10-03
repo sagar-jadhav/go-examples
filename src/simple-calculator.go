@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
- * simple-calculator program demonstrates different mathemetical
+ * simple-calculator program demonstrates different mathematical
  * operations in Go along with different way of defining a
  * variables in Go
  */

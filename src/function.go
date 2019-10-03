@@ -28,7 +28,7 @@ func main() {
 /*
  * It will return the sum of integers provided in the
  * parameters arr. Function signature is comprises of
- * function name, paramters/arguments, return types & body
+ * function name, parameters/arguments, return types & body
  */
 func calculateSum(arr []int) int {
 	sum := 0
