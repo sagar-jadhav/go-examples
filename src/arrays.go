@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
- * arrays program will demonstrate use of arrays & syntax for arrays
+ * arrays program demonstrates use of arrays & syntax for arrays
  * in Go programming language
  */
 func main() {

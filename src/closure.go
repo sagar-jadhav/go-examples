@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 /*
- * closure.go program will demonstrate how to declare
+ * closure.go program demonstrate how to declare
  * and use the function inside function in Go
- * programming language. Closure is one of the
- * key aspect of functional programming
+ * programming language. Closures are one of the
+ * key aspects of functional programming
  */
 func main() {
 	fmt.Println(outerFuncOne())

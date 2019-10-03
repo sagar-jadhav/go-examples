@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
- * function.go program will demonstrates how to write a
+ * function.go program demonstrates how to write a
  * function in Go programming language along with its usage
  * and different options
  */
