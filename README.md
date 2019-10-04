@@ -39,7 +39,8 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 * [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
-* [Unit Testing](https://github.com/sagar-jadhav/go-examples/tree/master/src/unit_test)
+* [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
+* [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 
 ## Notes
 - Please give a Star to project. If you find it useful.
