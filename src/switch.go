@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
- * switch.go program will demonstrate use of switch statements
+ * switch.go program demonstrates the use of switch statements
  * using the sign to word program
  */
 func main() {
