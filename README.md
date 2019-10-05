@@ -51,5 +51,4 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 - [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 
 ## Notes
-
-- Please give a Star to project. If you find it useful.
+- Please give a Star ⭐️ to project. If you find it useful.
