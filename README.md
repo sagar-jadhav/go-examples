@@ -30,7 +30,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
 * [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
-* [Switch Statement](https://github.com/sagar-jadhav/go-examples/docs/master/src/switch.md)
+* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/docs/switch.md)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 
