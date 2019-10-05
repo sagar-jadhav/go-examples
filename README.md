@@ -33,7 +33,7 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
 * [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
-* [Hello World](https://github.com/sagar-jadhav/go-examples/blob/master/docs/hello-world.md)
+* [Hello World](./hello-world.html)
 * [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 * [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
