@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 /*
- * recursion.go demonstrate how to use recursion in go
- * programming language. Recursion is calling a function itself.
- * Recusrion is key aspect in functional programming.
+ * recursion.go demonstrates how to use recursion in the Go
+ * programming language. Recursion is a function calling itself.
+ * Recursion is a key aspect in functional programming.
  */
 func main() {
 	fmt.Println(calculateFactorial(5))

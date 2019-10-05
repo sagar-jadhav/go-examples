@@ -4,7 +4,7 @@ import "fmt"
 
 /*
  * slice program will demonstrate the working and syntax
- * of slice in Go programming language along with use of
+ * of slices in the Go programming language along with use of
  * append & copy functions
  */
 func main() {

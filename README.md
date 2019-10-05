@@ -40,7 +40,8 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 * [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
 * [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
-
+* [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
+* [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 
 ## Notes
 - Please give a Star to project. If you find it useful.
