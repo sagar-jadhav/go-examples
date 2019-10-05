@@ -12,20 +12,6 @@ Clone [go-examples](git@github.com:sagar-jadhav/go-examples.git) and open with a
 To perform hands-on on **go-examples** it is prerequisite to have Go installed on your machine.
 [Steps to install Go](https://golang.org/doc/install?download)
 
-## Contributing
-
-Pull requests are welcome. I will appreciate any help on either enhancing existing example/program or addition of new example/program.
-
-1. Fork the repo on GitHub
-2. Clone the project to your own machine
-3. Commit changes to your own branch
-4. Push your work back up to your fork
-5. Submit a Pull request so that we can review your changes
-
-## Authors
-
-* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
-
 ## Contents
 
 * [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
@@ -47,5 +33,19 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
+
+## Contributing
+
+Pull requests are welcome. I will appreciate any help on either enhancing existing example/program or addition of new example/program.
+
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that we can review your changes
+
+## Authors
+
+* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
 
 ## Hit Star ⭐️ & Start learning !!
