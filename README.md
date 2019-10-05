@@ -1,4 +1,4 @@
-# Learn Go with simple examples
+# Learn Go programming language with simple examples
 
 [![Open Source Helpers](https://www.codetriage.com/sagar-jadhav/go-examples/badges/users.svg)](https://www.codetriage.com/sagar-jadhav/go-examples)
 
