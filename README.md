@@ -16,29 +16,35 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 
 Pull requests are welcome. I will appreciate any help on either enhancing existing example/program or addition of new example/program.
 
+1. Fork the repo on GitHub
+2. Clone the project to your own machine
+3. Commit changes to your own branch
+4. Push your work back up to your fork
+5. Submit a Pull request so that we can review your changes
+
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
 
 ## Contents
 
-* [Hello World](https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go)
-* [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
-* [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
-* [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
-* [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
-* [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
-* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
-* [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
-* [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
-* [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
-* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
+* [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
 * [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
-* [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
+* [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
+* [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
+* [Hello World](https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go)
+* [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
-* [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
+* [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
 * [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
+* [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
+* [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
+* [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
+* [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
+* [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
+* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
+* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 
 
 ## Notes
