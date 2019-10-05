@@ -22,7 +22,7 @@ Provide instructions so we can reproduce.
 Please also list any relevant details for your test configuration
 
 - [ ] Test A
-- [ ] Test B
+- [ ] Test B  -->
 
 **Test Configuration**:
 * Firmware version:
