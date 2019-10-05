@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
 //Go supports interfaces in a different way than other programming languages
@@ -18,12 +19,10 @@ type Square struct {
 }
 
 func (s *Square) area() float64 {
-	l := distance(r.x1, r.y1, r.x2, r.y2) // calculate distance between 2 points
-	return l * l
+	return math.Abs(s.x2-s.x1) * math.Abs(s.y2-s.y1)
 }
-func main() {
 
+func main() {
 	s := Square{0, 0, 5, 5}
 	fmt.Println(s.area()) // 25
-
 }
