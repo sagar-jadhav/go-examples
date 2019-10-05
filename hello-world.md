@@ -20,4 +20,4 @@ func main() {
 Hello World!
 ```
 
-[<- Back](./)
+[Back](./)
