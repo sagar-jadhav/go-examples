@@ -3,11 +3,11 @@ package main
 import "fmt"
 
 /*
- * variadic.go program will demonstrate use of
- * variadic paramters in Go programming language
+ * variadic.go program demonstrates the use of
+ * variadic parameters in the Go programming language
  */
 func main() {
-	//passing zero paramter
+	//passing zero parameter
 	printNumbers()
 
 	//passing two parameters
@@ -19,7 +19,7 @@ func main() {
 }
 
 /*
- * This function can take zero or more paramters
+ * This function can take zero or more parameters
  */
 func printNumbers(numbers ...int) {
 	for index, number := range numbers {

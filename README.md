@@ -43,7 +43,8 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Defer](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/defer.go)
 * [Recover](https://github.com/sagar-jadhav/go-examples/blob/master/src/panic-defer-recover/recover.go)
 * [Commmand-line arguments](https://github.com/sagar-jadhav/go-examples/blob/master/src/cmd-arguments.go)
-
+* [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
+* [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 
 ## Notes
 - Please give a Star to project. If you find it useful.
