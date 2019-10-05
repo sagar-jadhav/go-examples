@@ -25,6 +25,12 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+* **Rajkumar** - [rajkumarGosavi](https://github.com/rajkumarGosavi)
+* **Andrea Manzini** - [ilmanzo](https://github.com/ilmanzo)
+* **Adam Pogwizd** - [adam-pog](https://github.com/adam-pog)
+* **Luka Jajanidze** - [LukaJaj](https://github.com/LukaJaj)
+* **cdrewuk** - [cdrewuk](https://github.com/cdrewuk)
+
 
 ## Contents
 
