@@ -19,7 +19,7 @@ type Square struct {
 }
 
 func (s *Square) area() float64 {
-	return math.Abs(s.x2-s.x1) * math.Abs(s.y2-s.y1)
+	return math.Abs((s.x2 - s.x1) * (s.y2 - s.y1))
 }
 
 func main() {
