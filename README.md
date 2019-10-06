@@ -29,7 +29,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
 * [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
 * [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
-* [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
+* [Struct](./struct.html)
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
