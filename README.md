@@ -28,7 +28,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
 * [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
 * [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
-* [String length](./string-length.md)
+* [String length](./string-length.html)
 * [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
