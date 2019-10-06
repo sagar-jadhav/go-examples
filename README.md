@@ -2,7 +2,7 @@
 
 [![Open Source Helpers](https://www.codetriage.com/sagar-jadhav/go-examples/badges/users.svg)](https://www.codetriage.com/sagar-jadhav/go-examples)
 
-The purpose of **go-examples** project is to learn Go programming language through simple programs which will cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with the basics in order to understand any programming language easily, Same concept will be applied to **go-examples** as well. I have started with the basics and then slowly moving to complex concepts. 
+The purpose of **go-examples** project is to learn Go programming language through simple programs which will cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with the basics in order to understand any programming language easily, Same concept will be applied to **go-examples** as well. I have started with the basics and then slowly moving to complex concepts.
 
 ## Getting Started
 Clone [go-examples](https://github.com/sagar-jadhav/go-examples.git) and open with any text editor or IDE. I prefer [Atom](https://atom.io/) to work with Go programming language.
@@ -47,5 +47,11 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+* **Rajkumar** - [rajkumarGosavi](https://github.com/rajkumarGosavi)
+* **Andrea Manzini** - [ilmanzo](https://github.com/ilmanzo)
+* **Adam Pogwizd** - [adam-pog](https://github.com/adam-pog)
+* **Luka Jajanidze** - [LukaJaj](https://github.com/LukaJaj)
+* **cdrewuk** - [cdrewuk](https://github.com/cdrewuk)
+
 
 ## Hit Star ⭐️ & Start learning !!
