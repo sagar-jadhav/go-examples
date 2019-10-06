@@ -11,10 +11,6 @@ package main
 
 import "fmt"
 
-/*
- * variadic.go program demonstrates the use of
- * variadic parameters in the Go programming language
- */
 func main() {
 	//passing zero parameter
 	printNumbers()
@@ -27,9 +23,6 @@ func main() {
 	printNumbers(slice...)
 }
 
-/*
- * This function can take zero or more parameters
- */
 func printNumbers(numbers ...int) {
 	for index, number := range numbers {
 		fmt.Printf("Number at index %d is %d", index, number)
