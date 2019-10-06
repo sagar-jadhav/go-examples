@@ -25,7 +25,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
 * [Pointer](./pointer.html)
-* [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
+* [Recursion](./recursion.html)
 * [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
 * [Slice](./slice.html)
 * [String length](./string-length.html)
