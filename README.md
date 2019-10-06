@@ -14,7 +14,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 
 ## Contents
 
-* [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
+* [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/docs/arrays.md)
 * [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
 * [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
 * [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
