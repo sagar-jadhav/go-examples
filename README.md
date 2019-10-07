@@ -14,7 +14,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 
 ## Contents
 
-* [Arrays](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
+* [Arrays](./arrays.html)
 * [Boolean Expressions](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
 * [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
 * [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
@@ -24,15 +24,15 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 * [Map](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
-* [Pointer](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
-* [Recursion](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
+* [Pointer](./pointer.html)
+* [Recursion](./recursion.html)
 * [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
-* [Slice](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
-* [String length](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
-* [Struct](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
-* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/docs/switch.md)
+* [Struct](./struct.html)
+* [Slice](./slice.html)
+* [String length](./string-length.html)
+* [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
-* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
+* [Variadic Parameter](./variadic.html)
 
 ## Contributing
 
