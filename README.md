@@ -47,5 +47,6 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
+* [Stack](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
 
 ## Hit Star ⭐️ & Start learning !!

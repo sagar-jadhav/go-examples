@@ -15,8 +15,9 @@ import "fmt"
 // Since Interface declares the functionalities of the type that defines it,
 // declaring the above mentioned methods in the interfaces essentially decalres
 // a Stack ADT.
-// Any data type which implements the Stack interface becomes the Stack. it can
+// Any data type which implements the Stack interface becomes the Stack ADT. it can
 // be an array, a Linked List, etc. In this case we are implementing Stack on a Linked List.
+// So Stack is the Abstract Data type and Linked List is the data structure here.
 
 type Stack interface {
 	push(item int)
