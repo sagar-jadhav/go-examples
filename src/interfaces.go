@@ -2,28 +2,29 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
-//Go supports interfaces in a different way than other programming languages
-//like Java do. Like a struct an interface is created using the type keyword,
-//followed by a name and the keyword interface:
+// Go supports interfaces in a different way than other programming languages
+// like Java does. Like a struct, an interface is created using the type keyword,
+// followed by a name and the keyword interface:
 type Shape interface {
+	// area returns the Square's area by multiplying both sides.
 	area() float64
 }
 
-//Now in order to "implement" this interface, a type must implement the interface methods defined. For example:
-
+// Now in order to "implement" this interface, a type must implement the interface methods defined. For example:
 type Square struct {
 	x1, y1, x2, y2 float64
 }
 
 func (s *Square) area() float64 {
-	l := distance(r.x1, r.y1, r.x2, r.y2) // calculate distance between 2 points
-	return l * l
+	return math.Abs((s.x2 - s.x1) * (s.y2 - s.y1))
 }
+
 func main() {
-
+	// create new 5x5 Square
 	s := Square{0, 0, 5, 5}
+	// print the Square's area
 	fmt.Println(s.area()) // 25
-
 }
