@@ -34,7 +34,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
 * [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 * [Stack](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
-* [Variadic Parameter](./variadic.html)
+* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/e1dab4515227c074c58d0a48920392777b93786e/src/variadic.go)
 
 ## Contributing
 
