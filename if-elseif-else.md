@@ -4,18 +4,13 @@ layout: default
 
 # If-Elseif-Else
 
-The example demonstrates usage of if, elseif and else clause in go.
+The example demonstrates usage of if, elseif and else clause in go. if-elseif-else program demonstrates the conditional statements in the Go programming language. In this program evenOdd function will explain if else block and signToWord program demonstrates if-elseif-else block.
 
 ```
 package main
 
 import "fmt"
 
-/*
- * if-elseif-else program demonstrates the conditional statements in the
- * Go programming language. In this program evenOdd function will explain
- * if else block and signToWord program demonstrates if-elseif-else block
- */
 func main() {
 	// It will demonstrate if-else statements
 	evenOdd()
