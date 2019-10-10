@@ -22,7 +22,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
 * [Hello World](./hello-world.html)
 * [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
-* [Interface](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
+* [Interface](./interfaces.html)
 * [Map](./map.html)
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
 * [Pointer](./pointer.html)
