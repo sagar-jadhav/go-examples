@@ -21,7 +21,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [For Loop](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
 * [Hello World](./hello-world.html)
-* [If Else Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
+* [If Else Statement](./if-elseif-else.html)
 * [Interface](./interfaces.html)
 * [Map](./map.html)
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
