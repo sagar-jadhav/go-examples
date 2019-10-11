@@ -7,12 +7,7 @@ layout: default
 closure.go program demonstrate how to declare and use the function inside function in Go programming language. Closures are one of the key aspects of functional programming.
 
 ```
-/*
- * closure.go program demonstrate how to declare
- * and use the function inside function in Go
- * programming language. Closures are one of the
- * key aspects of functional programming
- */
+
 func main() {
 	fmt.Println(outerFuncOne())
 	fmt.Println(outerFuncTwo())
