@@ -2,7 +2,7 @@
 
 [![Open Source Helpers](https://www.codetriage.com/sagar-jadhav/go-examples/badges/users.svg)](https://www.codetriage.com/sagar-jadhav/go-examples)
 
-The purpose of **go-examples** project is to learn Go programming language through simple programs which will  cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with basics in order to understand any programming language easily, Same concept will be applied with **go-examples** as well. I have started with basics and then slowly moving to complex concepts.  
+The purpose of **go-examples** project is to learn Go programming language through simple programs which will  cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with basics in order to understand any programming language easily, Same concept will be applied with **go-examples** as well. I have started with basics and then slowly moving to complex concepts.
 
 ## Getting Started
 Clone [go-examples](git@github.com:sagar-jadhav/go-examples.git) and open with any text editor or IDE. I prefer [Atom](https://atom.io/) to work with Go programming language.
@@ -21,6 +21,8 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 3. Commit changes to your own branch
 4. Push your work back up to your fork
 5. Submit a Pull request so that we can review your changes
+
+The Pull Request template can be found [here](blob/master/pull_request_template.md)
 
 ## Authors
 
