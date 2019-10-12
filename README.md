@@ -27,7 +27,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
 * [Pointer](./pointer.html)
 * [Recursion](./recursion.html)
-* [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
+* [Simple Calculator](./simple-calculator.html)
 * [Struct](./struct.html)
 * [Stack](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
 * [Slice](./slice.html)
