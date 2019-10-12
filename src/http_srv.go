@@ -1,41 +1,100 @@
 package main
 
 import (
+	"encoding/json"
 	"log"
 	"net/http"
+	"strconv"
 )
 
 const bindPort = ":8080"
 
-func helloJSON(w http.ResponseWriter, r *http.Request) {
-	// set http content type header for the clients
-	w.Header().Set("Content-Type", "application/json")
+var people = map[int]Person{}
+var lastId = 0
 
-	// set http statuscode
+func updatePerson(w http.ResponseWriter, r *http.Request) {
+	id := r.FormValue("id")
+	intId, err := strconv.Atoi(id)
+	if err != nil {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write([]byte("bad request"))
+		return
+	}
+
+	person, ok := people[intId]
+	if !ok {
+		w.WriteHeader(http.StatusNotFound)
+		w.Write([]byte("not found"))
+		return
+	}
+
+	person.FirstName = r.FormValue("first_name")
+	person.LastName = r.FormValue("last_name")
+
+	people[intId] = person
+	w.WriteHeader(http.StatusAccepted)
+	w.Write([]byte("updated"))
+}
+
+func createPerson(w http.ResponseWriter, r *http.Request) {
+	if r.Method == "POST" {
+
+		fn := r.FormValue("first_name")
+		ln := r.FormValue("last_name")
+
+		p := Person{
+			FirstName: fn,
+			LastName:  ln,
+		}
+
+		people[lastId] = p
+		lastId++
+
+		w.WriteHeader(http.StatusCreated)
+		w.Write([]byte("created"))
+
+	} else {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write([]byte("bad request"))
+	}
+}
+
+func readPeople(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(http.StatusOK)
 
-	// write json string in bytes to http output stream
-	_, err := w.Write([]byte("{\"msg\": \"hello world\"}"))
+	err := json.NewEncoder(w).Encode(people)
 	if err != nil {
 		log.Println(err)
 	}
 }
 
-func helloUser(w http.ResponseWriter, r *http.Request) {
-	name, ok := r.URL.Query()["name"]
-	if !ok {
-		_, _ = w.Write([]byte("no name supplied"))
-		return
+func deletePerson(w http.ResponseWriter, r *http.Request) {
+	if r.Method == "DELETE" {
+		id := r.FormValue("id")
+
+		idInt, err := strconv.Atoi(id)
+		if err != nil {
+			log.Println(err)
+		}
+
+		_, ok := people[idInt]
+		if !ok {
+			w.WriteHeader(http.StatusNotFound)
+			return
+		}
+
+		delete(people, idInt)
+		w.WriteHeader(http.StatusOK)
+		w.Write([]byte("deleted"))
+	} else {
+		w.Write([]byte("bad request"))
 	}
+}
 
-	if len(name) != 1 {
-		_, _ = w.Write([]byte("too many arguments"))
-		return
-	}
-
-	_, _ = w.Write([]byte("hello " + name[0]))
-
-	log.Println("user ", name[0], " called this function")
+type Person struct {
+	FirstName string `json:"first_name"`
+	LastName  string `json:"last_name"`
 }
 
 // http_srv program demonstrates how to serve simple content over http
@@ -45,20 +104,13 @@ func helloUser(w http.ResponseWriter, r *http.Request) {
 // /hello-user?name=<USERNAME>
 // call them with curl: curl localhost:8080/hello-world
 func main() {
+	people = make(map[int]Person)
 
-	// implement simple inline function
-	http.HandleFunc("/hello-world", func(w http.ResponseWriter, r *http.Request) {
-
-		// write to output stream
-		_, err := w.Write([]byte("hello world"))
-		if err != nil {
-			log.Println(err)
-		}
-	})
-
-	// bind http endpoints
-	http.HandleFunc("/hello-json", helloJSON)
-	http.HandleFunc("/hello-user", helloUser)
+	// updatePerson people
+	http.HandleFunc("/people", readPeople)
+	http.HandleFunc("/people/create", createPerson)
+	http.HandleFunc("/people/update", updatePerson)
+	http.HandleFunc("/people/delete", deletePerson)
 
 	log.Println("listening on ", bindPort)
 	log.Fatal(http.ListenAndServe(bindPort, nil))
