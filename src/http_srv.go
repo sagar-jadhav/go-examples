@@ -97,12 +97,7 @@ type Person struct {
 	LastName  string `json:"last_name"`
 }
 
-// http_srv program demonstrates how to serve simple content over http
-// this sample implements three different endpoints
-// /hello-world
-// /hello-json
-// /hello-user?name=<USERNAME>
-// call them with curl: curl localhost:8080/hello-world
+// http_srv program is a simple CRUD (create, read, update, delete) sample over http
 func main() {
 	people = make(map[int]Person)
 
