@@ -33,7 +33,9 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [String length](./string-length.html)
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
 * [Unit Test](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power_test.go)
-* [Variadic Parameter](./variadic.html)
+* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
+* [Stack](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
+* [Variadic Parameter](https://github.com/sagar-jadhav/go-examples/blob/e1dab4515227c074c58d0a48920392777b93786e/src/variadic.go)
 
 ## Contributing
 
@@ -50,5 +52,6 @@ The Pull Request template can be found [here](pull_request_template.md)
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+* **Souvik Haldar**- [Souvik Haldar](http://souvikhaldar.info)
 
 ## Hit Star ⭐️ & Start learning !!
