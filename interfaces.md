@@ -1,13 +1,13 @@
-package main
+---
+layout: default
+---
 
-import (
-	"fmt"
-	"math"
-)
+# Interfaces in Go
 
-// Go supports interfaces in a different way than other programming languages
-// like Java does. Like a struct, an interface is created using the type keyword,
-// followed by a name and the keyword interface:
+Go supports interfaces in a different way than other programming languages like Java does. Like a struct, an interface is created using the type keyword, followed by a name and the keyword interface:
+
+```
+
 type Shape interface {
 	// area returns the Square's area by multiplying both sides.
 	area() float64
@@ -28,3 +28,14 @@ func main() {
 	// print the Square's area
 	fmt.Println(s.area()) // 25
 }
+```
+
+[Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
+
+### Output
+
+```
+25
+```
+
+[Back](./)
