@@ -51,6 +51,11 @@ The Pull Request template can be found [here](pull_request_template.md)
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+* **Rajkumar** - [rajkumarGosavi](https://github.com/rajkumarGosavi)
+* **Andrea Manzini** - [ilmanzo](https://github.com/ilmanzo)
+* **Adam Pogwizd** - [adam-pog](https://github.com/adam-pog)
+* **Luka Jajanidze** - [LukaJaj](https://github.com/LukaJaj)
+* **cdrewuk** - [cdrewuk](https://github.com/cdrewuk)
 * **Souvik Haldar**- [Souvik Haldar](http://souvikhaldar.info)
 
 ## Hit Star ⭐️ & Start learning !!
