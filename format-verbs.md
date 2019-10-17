@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Format
+# Format Verbs
 
 This example demonstrates the use of fmt verbs in Go.
 
@@ -55,7 +55,7 @@ func main() {
 }
 ```
 
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/format.go)
+[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/format-verbs.go)
 
 ### Output
 
