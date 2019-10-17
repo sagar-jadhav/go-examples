@@ -46,6 +46,6 @@ func main() {
 	pi := 3.14159
 	eulers := 2.71828
 
-	fmt.Printf("%.2f | %.2f\n", pi, eulers) // print float values in specific precision format
+	fmt.Printf("%.2f | %.2f\n", pi, eulers) // print float values in specific precision format (two decimal places)
 }
 
