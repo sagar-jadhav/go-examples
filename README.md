@@ -19,7 +19,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Closure](./closure.html)
 * [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
 * [For Loop](./for-loop.html)
-* [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
+* [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.md)
 * [Hello World](./hello-world.html)
 * [If Else Statement](./if-elseif-else.html)
 * [Interface](./interfaces.html)
