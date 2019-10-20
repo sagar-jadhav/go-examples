@@ -153,8 +153,8 @@ func main() {
 }
  
 func sum(nums ...int) (int, int) {
-    s := 0      // 합계
-    count := 0  // 요소 갯수
+    s := 0    
+    count := 0  
     for _, n := range nums {
         s += n
         count++
