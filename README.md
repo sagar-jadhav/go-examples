@@ -16,7 +16,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 
 * [Arrays](./arrays.html)
 * [Boolean Expressions](./boolean-expressions.html)
-* [Closure](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
+* [Closure](./closure.html)
 * [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
 * [For Loop](./for-loop.html)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
@@ -27,8 +27,9 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Math functions](https://github.com/sagar-jadhav/go-examples/tree/master/src/test/power.go)
 * [Pointer](./pointer.html)
 * [Recursion](./recursion.html)
-* [Simple Calculator](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
+* [Simple Calculator](./simple-calculator.html)
 * [Struct](./struct.html)
+* [Stack](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
 * [Slice](./slice.html)
 * [String length](./string-length.html)
 * [Switch Statement](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
@@ -50,5 +51,11 @@ The Pull Request template can be found [here](pull_request_template.md)
 ## Authors
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+* **Rajkumar** - [rajkumarGosavi](https://github.com/rajkumarGosavi)
+* **Andrea Manzini** - [ilmanzo](https://github.com/ilmanzo)
+* **Adam Pogwizd** - [adam-pog](https://github.com/adam-pog)
+* **Luka Jajanidze** - [LukaJaj](https://github.com/LukaJaj)
+* **cdrewuk** - [cdrewuk](https://github.com/cdrewuk)
+* **Souvik Haldar**- [Souvik Haldar](http://souvikhaldar.info)
 
 ## Hit Star ⭐️ & Start learning !!
