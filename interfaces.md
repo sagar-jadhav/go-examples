@@ -22,12 +22,17 @@ func (s *Square) area() float64 {
 	return math.Abs((s.x2 - s.x1) * (s.y2 - s.y1))
 }
 
+func measure(s Shape) float64 {
+	return s.area()
+}
+
 func main() {
 	// create new 5x5 Square
 	s := Square{0, 0, 5, 5}
-	// print the Square's area
-	fmt.Println(s.area()) // 25
+	// print the Square's area via the Shape interface
+	fmt.Println(measure(&s)) // 25
 }
+
 ```
 
 [Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
