@@ -22,8 +22,34 @@ curl -X POST http://localhost:8080/people/create \
 ### Output: created
 ```
 When this command is executed, a new person gets stored in the `people` map.
-The attributes fo the person, namely first- and lastname, are specified in the POST body
+The attributes fo the person, namely firstname and lastname, are specified in the POST body
 URL-encoded. In this example `John Doe` is used.
+
+The following snippet is responsible for creating new a ner person.
+```go
+func createPerson(w http.ResponseWriter, r *http.Request) {
+	if r.Method == "POST" {
+
+		fn := r.FormValue("first_name")
+		ln := r.FormValue("last_name")
+
+		p := Person{
+			FirstName: fn,
+			LastName:  ln,
+		}
+
+		people[lastId] = p
+		lastId++
+
+		w.WriteHeader(http.StatusCreated)
+		w.Write([]byte("created"))
+
+	} else {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write([]byte("bad request"))
+	}
+}
+```
 
 **List all people**
 ```bash
@@ -34,6 +60,17 @@ curl http://localhost:8080/people
 This command calls the `readPeople()` function.
 It returns all the people currently stored in the data map in a JSON format.
 
+```go
+func readPeople(w http.ResponseWriter, r *http.Request) {
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(http.StatusOK)
+
+	err := json.NewEncoder(w).Encode(people)
+	if err != nil {
+		log.Println(err)
+	}
+}
+```
 
 **Update a person**
 
@@ -48,6 +85,32 @@ curl -X PUT http://localhost:8080/people/update?id=0 \
      -d 'first_name=Alice&last_name=Smith'
 
 ### Output: updated
+```
+
+```go
+func updatePerson(w http.ResponseWriter, r *http.Request) {
+	id := r.FormValue("id")
+	intId, err := strconv.Atoi(id)
+	if err != nil {
+		w.WriteHeader(http.StatusBadRequest)
+		w.Write([]byte("bad request"))
+		return
+	}
+
+	person, ok := people[intId]
+	if !ok {
+		w.WriteHeader(http.StatusNotFound)
+		w.Write([]byte("not found"))
+		return
+	}
+
+	person.FirstName = r.FormValue("first_name")
+	person.LastName = r.FormValue("last_name")
+
+	people[intId] = person
+	w.WriteHeader(http.StatusAccepted)
+	w.Write([]byte("updated"))
+}
 ```
 
 Now check again the list function
@@ -67,6 +130,32 @@ curl -X DELETE http://localhost:8080/people/delete?id=0
 ### Output: deleted
 ```
 
+```go
+func deletePerson(w http.ResponseWriter, r *http.Request) {
+	if r.Method == "DELETE" {
+		id := r.FormValue("id")
+
+		idInt, err := strconv.Atoi(id)
+		if err != nil {
+			log.Println(err)
+		}
+
+		_, ok := people[idInt]
+		if !ok {
+			w.WriteHeader(http.StatusNotFound)
+			return
+		}
+
+		delete(people, idInt)
+		w.WriteHeader(http.StatusOK)
+		w.Write([]byte("deleted"))
+	} else {
+		w.Write([]byte("bad request"))
+	}
+}
+```
+
+
 The `people` map should now be empty.
 Check this by calling the list function again
 
@@ -75,3 +164,5 @@ curl http://localhost:8080/people
 
 ### Output: {}
 ```
+
+Here you may view the [whole source code](/src/http_srv.go) or [go back](/README.md)
