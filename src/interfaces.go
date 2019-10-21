@@ -18,17 +18,18 @@ type Square struct {
 	x1, y1, x2, y2 float64
 }
 
-func (s *Square) area() float64 {
+// We defined method area with Square receiver type, so that Square implemented those methods. 
+//As Area() method is declared in Shape interface, Square implements Shape interface.
+func (s Square) area() float64 {
 	return math.Abs((s.x2 - s.x1) * (s.y2 - s.y1))
 }
 
-func measure(s Shape) float64 {
-	return s.area()
-}
-
 func main() {
-	// create new 5x5 Square
-	s := Square{0, 0, 5, 5}
-	// print the Square's area via the Shape interface
-	fmt.Println(measure(&s)) // 25
+	//creating nil Shape reference s.
+	var s Shape
+	//assigning struct of type Square to Shape reference s. Since Square implements Shape, this is a valid scenario.
+	s = Square{0, 0, 5, 5}
+	fmt.Printf("dynamic type of s at runtime is %T\n",s) // We can clearly see that at runtime, the type of s is Square.
+	// print the Square's area via the Shape interface reference
+	fmt.Println(s.area()) // 25
 }
