@@ -37,9 +37,11 @@ func index(w http.ResponseWriter, r *http.Request) {
 
 func processor(w http.ResponseWriter, r *http.Request) {
 	db, err := gorm.Open("sqlite3", "shoppinglist.sqlite")
+	// panics if there's an error open database opening 
 	if err != nil {
 		panic("failed to connect to db")
 	}
+	// close the db after the function returns
 	defer db.Close()
 	if r.Method != "POST" {
 		http.Redirect(w, r, "/", http.StatusSeeOther)
@@ -58,9 +60,11 @@ func processor(w http.ResponseWriter, r *http.Request) {
 //commented-out code doesn't perform a desired task; leaving it for now
 func parseThenQuery(w http.ResponseWriter, r *http.Request) {
 	db, err := gorm.Open("sqlite3", "availableItems.sqlite")
+	// panics if there's an error open database opening 
 	if err != nil {
 		panic("failed to connect to db")
 	}
+	// close the db after the function returns
 	defer db.Close()
 
 	// searchedItem := r.FormValue("item")
