@@ -64,4 +64,12 @@ func main() {
 	Since() returns the time elapsed*/
 	duration := time.Since(now)
 	fmt.Println(duration)
+
+	/* The unit of time for duration
+	is nanoseconds by default */
+	fmt.Println(int64(duration)) // nanoseconds by default
+
+	// convert duration to a different unit of time
+	fmt.Println(duration.Microseconds()) // get duration in microseconds
+	fmt.Println(duration.Milliseconds()) // get duration in milliseconds
 }

@@ -4,7 +4,7 @@ layout: default
 
 # Time
 
-The example demonstrates the various things you can do with time in Go
+The example demonstrates the various things you can do with time in Go.
 
 When formatting time, you can use one of the [format constants](https://golang.org/pkg/time/#pkg-constants), or write your own using the following options:
 
@@ -24,6 +24,19 @@ When formatting time, you can use one of the [format constants](https://golang.o
 | Offset   | -0700 -07 -07:00 Z0700 Z07:00                    |
 
 [_table source_](https://yourbasic.org/golang/format-parse-string-time-date-example/#layout-options)
+
+Duration represents elapsed time in nanoseconds. Keep this in mind when using duration in calculations. Convert it to the desired unit of time if needed using the functions:
+
+```plain
+    func (d Duration) Hours() float64
+    func (d Duration) Microseconds() int64
+    func (d Duration) Milliseconds() int64
+    func (d Duration) Minutes() float64
+    func (d Duration) Nanoseconds() int64
+    func (d Duration) Seconds() float64
+```
+
+## Example program: time.go
 
 ```Go
 func main() {
@@ -82,31 +95,42 @@ func main() {
     Since() returns the time elapsed*/
     duration := time.Since(now)
     fmt.Println(duration)
+
+    /* The unit of time for duration
+    is nanoseconds by default */
+    fmt.Println(int64(duration)) // nanoseconds by default
+
+    // convert duration to a different unit of time
+    fmt.Println(duration.Microseconds()) // get duration in microseconds
+    fmt.Println(duration.Milliseconds()) // get duration in milliseconds
 }
 ```
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/time.go)
 
-### Output
+## Output
 
 ```plain
-2019-10-30 18:12:25.6052925 -0500 CDT m=+0.005999201
+2019-11-01 13:33:05.447554 -0500 CDT m=+0.003996301
 2019-11-28 17:00:00 -0600 CST
 28 Nov 19 17:00 CST
-2020-10-30 18:12:25.6052925 -0500 CDT
-2019-09-30 18:12:25.6052925 -0500 CDT
-2019-10-31 18:12:25.6052925 -0500 CDT
-2019-10-30 23:12:25.6052925 -0500 CDT m=+18000.005999201
-2019-10-30 17:42:25.6052925 -0500 CDT m=-1799.994000799
-2019-10-30 18:12:55.6052925 -0500 CDT m=+30.005999201
+2020-11-01 13:33:05.447554 -0600 CST
+2019-10-01 13:33:05.447554 -0500 CDT
+2019-11-02 13:33:05.447554 -0500 CDT
+2019-11-01 18:33:05.447554 -0500 CDT m=+18000.003996301
+2019-11-01 13:03:05.447554 -0500 CDT m=-1799.996003699
+2019-11-01 13:33:35.447554 -0500 CDT m=+30.003996301
 2019
-October
-30
-18
-12
-25
+November
+1
+13
+33
+5
 CDT -18000
-2.0030032s
+2.0040004s
+2004000400
+2004000
+2004
 ```
 
 [Back](./)
