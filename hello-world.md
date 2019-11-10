@@ -13,7 +13,7 @@ func main() {
 ```
 
 
-<a href='https://play.golang.org/p/bQuOiBTBOZs' target='_blank'>Run on Playground</a>
+<a href='https://play.golang.org/p/bQuOiBTBOZs' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go)
 
