@@ -37,6 +37,7 @@ func main() {
 	}
 }
 ```
+<a href='https://play.golang.org/p/f3UzBIDZQmy' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
 
