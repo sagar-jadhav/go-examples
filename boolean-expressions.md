@@ -14,6 +14,8 @@ func main() {
 }
 ```
 
+<a href='https://play.golang.org/p/A9FUbVkBS_Z' target='_blank'>Try It Out</a>
+
 [Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/boolean-expressions.go)
 
 ### Output
