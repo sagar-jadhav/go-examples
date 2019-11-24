@@ -20,6 +20,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
 * [Comparison Operators](./comparison-operators.html)
 * [For Loop](./for-loop.html)
+* [Format Verbs](./format-verbs.html)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.md)
 * [Hello World](./hello-world.html)
 * [If Else Statement](./if-elseif-else.html)
