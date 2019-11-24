@@ -54,6 +54,7 @@ func main() {
 	fmt.Printf("%.2f | %.2f\n", pi, eulers) // print float values in specific precision format
 }
 ```
+<a href='https://play.golang.org/p/_CDBhxBHGnV' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/format-verbs.go)
 
