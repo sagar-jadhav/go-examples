@@ -53,6 +53,7 @@ func main() {
 	}
 }
 ```
+<a href='https://play.golang.org/p/GklbzQqmNsQ' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
 
