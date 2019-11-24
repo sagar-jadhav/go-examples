@@ -18,7 +18,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Boolean Expressions](./boolean-expressions.html)
 * [Closure](./closure.html)
 * [Concurrency](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
-* [Comparison Operators](https://github.com/sagar-jadhav/go-examples/blob/master/src/comparison-operators.go)
+* [Comparison Operators](./comparison-operators.html)
 * [For Loop](./for-loop.html)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.md)
 * [Hello World](./hello-world.html)
