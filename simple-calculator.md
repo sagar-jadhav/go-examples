@@ -46,6 +46,7 @@ Here we output calculations using these variables.
 	fmt.Println("Result of Division of 24,12 : ", variableF/variableG)
 	fmt.Println("Result of Subtraction of 24,12 : ", variableJ-variableK)
 ```
+<a href='https://play.golang.org/p/2G-7fk-qIMf' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/simple-calculator.go)
 
