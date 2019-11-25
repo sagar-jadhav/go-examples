@@ -28,6 +28,7 @@ func main() {
 }
 
 ```
+<a href='https://play.golang.org/p/3WTvfovnEXn' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 
