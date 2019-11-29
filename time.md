@@ -105,6 +105,7 @@ func main() {
     fmt.Println(duration.Milliseconds()) // get duration in milliseconds
 }
 ```
+<a href='https://play.golang.org/p/0O_ndbXDkz5' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/time.go)
 
