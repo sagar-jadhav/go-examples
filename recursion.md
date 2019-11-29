@@ -23,6 +23,7 @@ func calculateFactorial(val int) int {
 	return val * calculateFactorial(val-1)
 }
 ```
+<a href='https://play.golang.org/p/fG_C_2OI03j' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/recursion.go)
 
