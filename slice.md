@@ -80,6 +80,7 @@ func print(arr []int, arrName string) {
 	fmt.Println()
 }
 ```
+<a href='https://play.golang.org/p/TTiY5rd1h5r' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
 
