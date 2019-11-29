@@ -34,6 +34,7 @@ func main() {
 }
 
 ```
+<a href='https://play.golang.org/p/fVjFIddO0VP' target='_blank'>Try It Out</a>
 
 [Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 
