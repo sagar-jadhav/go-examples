@@ -30,6 +30,7 @@ func printNumbers(numbers ...int) {
 	}
 }
 ```
+<a href='https://play.golang.org/p/jO0EqOanaQF' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 
