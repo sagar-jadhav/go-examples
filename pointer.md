@@ -30,6 +30,7 @@ func main() {
 
 }
 ```
+https://play.golang.org/p/RlzXQRU2WJl
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
 
