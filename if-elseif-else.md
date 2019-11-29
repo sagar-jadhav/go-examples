@@ -50,6 +50,7 @@ func signToWord() {
 	fmt.Println()
 }
 ```
+<a href='https://play.golang.org/p/F2vRhPoQU-e' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
 
