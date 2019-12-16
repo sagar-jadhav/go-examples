@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Switch Statement
+# Stack
 
 Stack is the Abstract Data type following FIFO (First In First Out) principle which has certain functionalities like-
 (a) push- Insert new data at one end

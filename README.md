@@ -23,6 +23,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Format Verbs](./format-verbs.html)
 * [Functions](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.md)
 * [Hello World](./hello-world.html)
+* [HTTP GET](./http_get.html)
 * [If Else Statement](./if-elseif-else.html)
 * [Interface](./interfaces.html)
 * [Map](./map.html)
