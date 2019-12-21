@@ -4,7 +4,7 @@ layout: default
 
 # Comparison Operators
 
-Example demonstrates different comparison operators in Go, like:
+Example demonstrates different comparison operators in Go
 
 ```go
 func main() {
