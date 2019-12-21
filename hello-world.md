@@ -4,14 +4,13 @@ layout: default
 
 # Hello World
 
-The example demonstrates printing hello world on console
+Example demonstrates printing hello world on console
 
-```
+```go
 func main() {
 	fmt.Println("Hello World!")
 }
 ```
-
 
 <a href='https://play.golang.org/p/bQuOiBTBOZs' target='_blank'>Try It Out</a>
 
@@ -19,8 +18,8 @@ func main() {
 
 ### Output
 
-```
+```bash
 Hello World!
 ```
 
-[Back](./)
+[<< Back](./)

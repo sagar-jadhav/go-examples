@@ -6,7 +6,7 @@ layout: default
 
 Test is very needed in todays development. In go, there is a powerful tool to do a unit Test. let's say we have a file like below.
 
-```
+```go
 package calc
 
 func Sum(a int, b int) int {
@@ -16,7 +16,7 @@ func Sum(a int, b int) int {
 
 save the file as `sum.go`, and make your own test file as `sum_test.go`. you can easily make the test file to put `_test.go`. you should follow the naming convetion for mighty go.
 
-```
+```go
 package calc
 
 import "testing" // go basic test
@@ -40,7 +40,7 @@ Writing test code is simple. You only need to determine if it fits with the conc
 In the console (terminal), go to the `GOPATH / src / calc` directory and run the following command (on Windows, run a command prompt or PowerShell): I set `GOPATH` to  this project.
 make sure always you have `$GOPATH` settings!
 
-```
+```bash
 ~$ cd $GOPATH/src/calc
 ~/hello_project/src/calc$ go test
 PASS
@@ -51,4 +51,4 @@ with `go test`, you can test your all `_test.go` function with `Testblabla....` 
 There are many `test` command options, like `-v` and `-coverage`, and you can easily find it on the go [site](https://golang.org/cmd/go/#hdr-Testing_flags)
 
 
-[Back](./)
+[<< Back](./)

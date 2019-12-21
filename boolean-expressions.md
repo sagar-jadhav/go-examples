@@ -3,10 +3,9 @@ layout: default
 ---
 
 # Boolean-Expressions
-Boolean-expressions program demonstrates different boolean expressions in Go like ||,&&,!
+Example demonstrates different boolean expressions in Go like ||,&&,!
 
-```
-
+```go
 func main() {
 	fmt.Println("true && false = ", (true && false))
 	fmt.Println("true || false = ", (true || false))
@@ -20,10 +19,10 @@ func main() {
 
 ### Output
 
-```
+```bash
 true && false =  false
 true || false =  true
 !true =  false
 ```
 
-[Back](./)
+[<< Back](./)

@@ -4,10 +4,10 @@ layout: default
 
 # Switch Statement
 
-The example demonstrates working of Switch Statement 
+Example demonstrates working of Switch Statement 
 using the sign to word program
 
-```
+```go
 func main() {
 	var sign string = "="
 	switch sign {
@@ -30,8 +30,8 @@ func main() {
 
 ### Output
 
-```
+```bash
 Equal To
 ```
 
-[Back](./)
+[<< Back](./)

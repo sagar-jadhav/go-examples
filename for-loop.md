@@ -4,9 +4,9 @@ layout: default
 
 # For Loop
 
-The example demonstrates usage of for loop in go.
+Example demonstrates usage of for loop in go.
 
-```
+```go
 func main() {
 	// Variation #1
 	var indexA int = 1
@@ -59,7 +59,7 @@ func main() {
 
 ### Output
 
-```
+```bash
 1
 2
 3
@@ -174,4 +174,4 @@ A Apple
 B Ball
 ```
 
-[Back](./)
+[<< Back](./)

@@ -4,9 +4,9 @@ layout: default
 
 # Format Verbs
 
-This example demonstrates the use of fmt verbs in Go.
+Example demonstrates the use of fmt verbs in Go.
 
-```
+```go
 type Food struct {
 	fruit, vegetable string
 }
@@ -22,18 +22,30 @@ func main() {
 
 	// fmt verbs for general go values
 	fruits := Food{"apple", "broccoli"}
+	
+	// prints struct in default value format
+	fmt.Printf("%v\n", fruits)
+	
+	// prints with struct field names included
+	fmt.Printf("%+v\n", fruits)
 
-	fmt.Printf("%v\n", fruits) // prints struct in default value format
-	fmt.Printf("%+v\n", fruits) // prints with struct field names included
-	fmt.Printf("%T\n", fruits) // prints the type of the value
+	// prints the type of the value	
+	fmt.Printf("%T\n", fruits)
 
 	// specific go fmt verb formats
 	book := BookInfo{false, 2018, 20.95, "The Overstory"}
 
-	fmt.Printf("This book is available: %t\n", book.isAvailable) // to print booleans
-	fmt.Printf("This book was published in: %d\n", book.published) // to print integers
-	fmt.Printf("This book costs $%g\n", book.price) // to print float/decimal values without precision
-	fmt.Printf("The title of this book is: %s\n", book.bookTitle) // to print string values
+	// to print booleans
+	fmt.Printf("This book is available: %t\n", book.isAvailable)
+	
+	// to print integers
+	fmt.Printf("This book was published in: %d\n", book.published)
+
+	// to print float/decimal values without precision	
+	fmt.Printf("This book costs $%g\n", book.price)
+	
+	// to print string values
+	fmt.Printf("The title of this book is: %s\n", book.bookTitle)
 
 	// Go fmt verbs for slices
 	books := [4]string{
@@ -45,13 +57,15 @@ func main() {
 
 	topBooks := books[0:2]
 
-	fmt.Printf("The top selling books are: %q\n", topBooks) // to print slice values in a safely-escaped string
+	// to print slice values in a safely-escaped string	
+	fmt.Printf("The top selling books are: %q\n", topBooks)
 
 	// Go fmt verbs with precision formatting
 	pi := 3.14159
 	eulers := 2.71828
 
-	fmt.Printf("%.2f | %.2f\n", pi, eulers) // print float values in specific precision format
+	// print float values in specific precision format
+	fmt.Printf("%.2f | %.2f\n", pi, eulers)
 }
 ```
 <a href='https://play.golang.org/p/_CDBhxBHGnV' target='_blank'>Try It Out</a>
@@ -60,7 +74,7 @@ func main() {
 
 ### Output
 
-```
+```bash
 {apple broccoli}
 {fruit:apple vegetable:broccoli}
 main.Food
@@ -72,4 +86,4 @@ The top selling books are: ["The Overstory" "Alias Grace"]
 3.14 | 2.72
 ```
 
-[Back](./)
+[<< Back](./)

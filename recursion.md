@@ -4,10 +4,10 @@ layout: default
 
 # Recursion
 
-The example demonstrates how to use recursion in the Go programming language.
+Example demonstrates how to use recursion in the Go programming language.
 Recursion is a function calling itself. Recursion is a key aspect in functional programming.
 
-```
+```go
 package main
 
 import "fmt"
@@ -29,9 +29,9 @@ func calculateFactorial(val int) int {
 
 ### Output
 
-```
+```bash
 120
 ```
 
-[Back](./)
+[<< Back](./)
 

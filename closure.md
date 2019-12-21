@@ -4,10 +4,9 @@ layout: default
 
 # Closure
 
-closure.go program demonstrate how to declare and use the function inside function in Go programming language. Closures are one of the key aspects of functional programming.
+Example demonstrates how to declare and use the function inside function in Go programming language. Closures are one of the key aspects of functional programming.
 
-```
-
+```go
 func main() {
 	fmt.Println(outerFuncOne())
 	fmt.Println(outerFuncTwo())
@@ -60,10 +59,10 @@ func returnFunction() func() string {
 
 ### Ouput
 
-```
+```bash
 Hello-World!
 2
 Greetings from Go!
 ```
 
-[Back](./)
+[<< Back](./)

@@ -3,10 +3,10 @@ layout: default
 ---
 
 # HTTP GET
-HTTP GET program demonstates How to call REST API which supports GET Method & How to convert response JSON to Object
+Example demonstates How to call REST API which supports GET Method? & How to convert response JSON to Object?
 
 
-```
+```go
 func main() {
 
 	// mapping json keys to the struct fields. Make sure first character of each field value is uppercase, otherwise mapping will not work
@@ -52,9 +52,17 @@ func main() {
 
 ### Output
 
-```
-{"data":{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"}}
+```bash
+{
+  "data": {
+    "id": 7,
+    "email": "michael.lawson@reqres.in",
+    "first_name": "Michael",
+    "last_name": "Lawson",
+    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+  }
+}
 {Id:7 Email:michael.lawson@reqres.in FirstName:Michael LastName:Lawson Avatar:https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg}
 ```
 
-[Back](./)
+[<< Back](./)

@@ -6,8 +6,7 @@ layout: default
 
 Go supports interfaces in a different way than other programming languages like Java does. Like a struct, an interface is created using the type keyword, followed by a name and the keyword interface:
 
-```
-
+```go
 type Shape interface {
 	// area returns the Square's area by multiplying both sides.
 	area() float64
@@ -40,8 +39,8 @@ func main() {
 
 ### Output
 
-```
+```bash
 25
 ```
 
-[Back](./)
+[<< Back](./)

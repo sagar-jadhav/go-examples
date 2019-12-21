@@ -69,4 +69,4 @@ Hello Go!
 Hello World
 ```
 
-[Back](./)
+[<< Back](./)

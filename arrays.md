@@ -4,9 +4,9 @@ layout: default
 
 # Arrays
 
-The example demonstrates printing arrays on console
+Example demonstrates printing arrays on console
 
-```
+```go
 func main() {
 	// Defining Array Variation #1
 	var avengers [5]string
@@ -43,7 +43,7 @@ func main() {
 
 ### Output
 
-```
+```bash
 Avenger at index [0] is 'Iron Man'
 Avenger at index [1] is 'Captain America'
 Avenger at index [2] is 'Ant Man'
@@ -56,4 +56,4 @@ Cricketer at index [3] is 'Anil Kumble'
 Cricketer at index [4] is 'Virat Kohli'
 ```
 
-[Back](./)
+[<< Backs](./)

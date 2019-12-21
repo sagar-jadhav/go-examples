@@ -4,9 +4,9 @@ layout: default
 
 # Map
 
-The example demonstrates usage of map in go.
+Example demonstrates usage of map in go.
 
-```
+```go
 func main() {
 	/* Uncomment this code block and verify that program will give
 	   * runtime error as Map is not initialized
@@ -70,12 +70,12 @@ func main() {
 
 # Output
 
-```
+```bash
 map[B:Ball C:Cat A:Apple]
 map[1:Sachin 2:Virat 3:Dhoni]
 map[=:equalto +:plus]
 
- false
+false
 plus
 A Apple
 B Ball
@@ -85,4 +85,4 @@ Virat
 Dhoni
 ```
 
-[Back](./)
+[<< Back](./)

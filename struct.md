@@ -4,9 +4,9 @@ layout: default
 
 # STRUCT
 
-The example demonstrates structs. Structs are used to group one of more fields of logical types together.
+Example demonstrates structs. Structs are used to group one of more fields of logical types together.
 
-```
+```go
 //For example we could represent a Point struct as:
 type Point struct {
 	x int
@@ -28,14 +28,15 @@ func main() {
 }
 
 ```
+
 <a href='https://play.golang.org/p/3WTvfovnEXn' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
 
 ### Output
 
-```
+```bash
 1
 10
 ```
-[Back](./)
+[<< Back](./)

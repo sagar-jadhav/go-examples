@@ -4,9 +4,9 @@ layout: default
 
 # String Length
 
-The example demonstrates how to calculate length of string
+Example demonstrates how to calculate length of string
 
-```
+```go
 func main() {
 	repositoryName := "go-examples"
 	fmt.Println("Length of", repositoryName, "string is", len(repositoryName))
@@ -18,8 +18,8 @@ func main() {
 
 ### Output
 
-```
+```bash
 Length of go-examples string is 11
 ```
 
-[Back](./)
+[<< Back](./)

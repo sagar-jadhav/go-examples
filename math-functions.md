@@ -28,4 +28,4 @@ func pow(base, exp float64) float64 {
 2^4 = 16s
 ```
 
-[Back](./)
+[<< Back](./)

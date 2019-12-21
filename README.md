@@ -50,7 +50,7 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 4. Push your work back up to your fork
 5. Submit a Pull request so that we can review your changes
 
-The Pull Request template can be found [here](pull_request_template.md)
+The Pull Request template can be found [here](./pull_request_template.html)
 
 ## Authors
 

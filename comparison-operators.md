@@ -4,15 +4,13 @@ layout: default
 
 # Comparison Operators
 
-Example demonstrates different comparison operators in Go
+Example demonstrates different comparison operators in Go. Comparison operators are used to evaluate values to boolean value of either true or false.
 
 ```go
 func main() {
 	x := 3
 	y := 5
 
-	// Comparison operators are used to evaluate values to boolean value of
-	// either true or false.
 	fmt.Println("x == y =", x == y)
 	fmt.Println("x != y =", x != y)
 	fmt.Println("x < y  =", x < y)
@@ -38,4 +36,4 @@ x <= y = true
 x >= y = false
 ```
 
-[Back](./)
+[<< Back](./)

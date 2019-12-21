@@ -4,9 +4,9 @@ layout: default
 
 # Pointer
 
-The example demonstrates pointer. Pointer allowing you to pass references to values and records within your program.
+Example demonstrates pointer. Pointer allowing you to pass references to values and records within your program.
 
-```
+```gos
 package main
 
 import (  
@@ -36,11 +36,11 @@ https://play.golang.org/p/RlzXQRU2WJl
 
 # Output
 
-```
+```bash
 Type of a is *int
 address of b is 0xc00001a0d0
 Size value is 0, type is *int, address is 0xc00001a0d8
 New size value is 85
 ```
 
-[Back](./)
+[<< Back](./)

@@ -165,4 +165,6 @@ curl http://localhost:8080/people
 ### Output: {}
 ```
 
-Here you may view the [whole source code](/src/http_srv.go) or [go back](/README.md)
+[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/http_srv.go)
+
+[<< Back](./)

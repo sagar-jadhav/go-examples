@@ -4,9 +4,9 @@ layout: default
 
 # Slice
 
-The example slice program will demonstrate the working and syntax of slices in the Go programming language along with use of append & copy functions
+Example slice program will demonstrate the working and syntax of slices in the Go programming language along with use of append & copy functions
 
-```
+```go
 import "fmt"
 
 func main() {
@@ -86,7 +86,7 @@ func print(arr []int, arrName string) {
 
 ### Output
 
-```
+```bash
 Value of Slice 'sliceA' with length 5 is [1 2 3 0 0]
 Value of Slice 'sliceB' with length 2 is [1 2]
 Value of Slice 'slice' with length 2 is [1 2]
@@ -101,4 +101,4 @@ Number of values copied is 2
 Value of Slice 'sliceX' with length 2 is [3 4]
 ```
 
-[Back](./)
+[<< Back](./)

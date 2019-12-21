@@ -14,7 +14,7 @@ There are many real-life examples of a stack. Consider an example of plates stac
 Since Interface declares the functionalities of the type that defines it,
 declaring the above mentioned methods in the interfaces essentially decalres a Stack ADT. Any data type which implements the Stack interface becomes the Stack ADT. it can be an array, a Linked List, etc. In this case we are implementing Stack on a Linked List. So Stack is the Abstract Data type and Linked List is the data structure here.
 
-```
+```go
 type Stack interface {
 	push(item int)
 	pop() int
@@ -119,7 +119,7 @@ func main() {
 
 ### Output
 
-```
+```bash
 PUSHED: 1
 1
 PUSHED: 2
@@ -149,4 +149,4 @@ STACK UNDERFLOW!
 POP: 0
 ```
 
-[Back](./)
+[<< Back](./)

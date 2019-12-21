@@ -4,7 +4,7 @@ layout: default
 
 # Concurrency
 
-The example demonstrates concurrency in Go
+Example demonstrates concurrency in Go
 
 ```go
 // Send the sequence 2, 3, 4, ... to channel 'ch'.
@@ -59,4 +59,4 @@ func main() {
 29
 ```
 
-[Back](./)
+[<< Back](./)
