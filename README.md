@@ -1,7 +1,4 @@
 # Learn Go programming language with simple examples
-
-[![Open Source Helpers](https://www.codetriage.com/sagar-jadhav/go-examples/badges/users.svg)](https://www.codetriage.com/sagar-jadhav/go-examples)
-
 The purpose of **go-examples** project is to learn Go programming language through simple programs which will cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with the basics in order to understand any programming language easily, Same concept will be applied to **go-examples** as well. I have started with the basics and then slowly moving to complex concepts.
 
 ## Getting Started
@@ -14,16 +11,15 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 
 ## Contents
 
+### Basic
 * [Arrays](./arrays.html)
 * [Boolean Expressions](./boolean-expressions.html)
 * [Closure](./closure.html)
-* [Concurrency](./concurrency.html)
 * [Comparison Operators](./comparison-operators.html)
 * [For Loop](./for-loop.html)
 * [Format Verbs](./format-verbs.html)
 * [Functions](./function.html)
 * [Hello World](./hello-world.html)
-* [HTTP GET](./http_get.html)
 * [If Else Statement](./if-elseif-else.html)
 * [Interface](./interfaces.html)
 * [Map](./map.html)
@@ -31,15 +27,19 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Pointer](./pointer.html)
 * [Recursion](./recursion.html)
 * [Simple Calculator](./simple-calculator.html)
-* [Struct](./struct.html)
-* [Stack](./stack.html)
 * [Slice](./slice.html)
+* [Stack](./stack.html)
 * [String length](./string-length.html)
 * [Switch Statement](./switch.html)
-* [Time](./time.html) 
 * [Unit Test](./unit-test.html)
 * [Variadic Parameter](./variadic.html)
+
+### Advance
+* [Concurrency](./concurrency.html)
 * [HTTP CRUD](./http_srv.html)
+* [HTTP GET](./http_get.html)
+* [Struct](./struct.html)
+* [Time](./time.html) 
 
 ## Contributing
 
@@ -55,6 +55,7 @@ The Pull Request template can be found [here](./pull_request_template.html)
 
 ## Authors
 
-* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
+- [Prabhat Agarwal](./prabhat-agarwal.html)
+- [Sagar Jadhav](./sagar-jadhav.html)
 
 ## Hit Star & Start learning !!

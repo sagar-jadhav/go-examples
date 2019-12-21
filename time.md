@@ -38,7 +38,7 @@ Duration represents elapsed time in nanoseconds. Keep this in mind when using du
 
 ## Example program: time.go
 
-```Go
+```go
 func main() {
     /* Now() returns the current local time
     in the format: 2019-10-30 17:29:02.6455037 -0500 CDT m=+0.004001001 */

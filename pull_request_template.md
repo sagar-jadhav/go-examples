@@ -2,13 +2,16 @@
 layout: default
 ---
 
-# Pull Request Template
+# Sagar Jadhav
+## Backend Developer (Cloud) | Speaker | Cloud Technology Enthusiast
 
-## Description
+- Seasoned Software Developer & Passionate Technical Speaker
+- Having 6+ years of experience in Software Development
+- Experience in wide range of Backend & DevOps technologies such as Java, Node JS, Golang, JavaScript, IBM Cloud, Docker, Kubernetes, Terraform, Spring Boot & Microservices
+- Passionate about learning new technologies related to Cloud Native Application Development
+- Speaker at different Meet Ups, Technical Conferences & Webinars
+- Author of Tech YouTube Channel "Developers Thought" https://www.youtube.com/c/DevelopersThought
 
-<!-- Please include a summary of the change and which issue is fixed.
-Please also include relevant motivation and context.
-List any dependencies that are required for this change. -->
 
 Fixes # (issue)
 
