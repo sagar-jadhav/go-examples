@@ -4,7 +4,7 @@ layout: default
 
 # Time
 
-The example demonstrates the various things you can do with time in Go.
+Example demonstrates the various things you can do with time in Go.
 
 When formatting time, you can use one of the [format constants](https://golang.org/pkg/time/#pkg-constants), or write your own using the following options:
 
@@ -105,6 +105,7 @@ func main() {
     fmt.Println(duration.Milliseconds()) // get duration in milliseconds
 }
 ```
+
 <a href='https://play.golang.org/p/0O_ndbXDkz5' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/time.go)
@@ -134,4 +135,4 @@ CDT -18000
 2004
 ```
 
-[Back](./)
+[<< Back](./)

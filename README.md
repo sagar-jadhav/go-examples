@@ -36,6 +36,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * [Slice](./slice.html)
 * [String length](./string-length.html)
 * [Switch Statement](./switch.html)
+* [Time](./time.html) 
 * [Unit Test](./unit-test.html)
 * [Variadic Parameter](./variadic.html)
 * [HTTP CRUD](./http_srv.html)
