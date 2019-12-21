@@ -54,6 +54,6 @@ The Pull Request template can be found [here](pull_request_template.md)
 
 ## Authors
 
-* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)s
+* **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
 
 ## Hit Star ⭐️ & Start learning !!

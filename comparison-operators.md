@@ -2,11 +2,17 @@
 layout: default
 ---
 
-# Comparison-operators
+# Comparison Operators
 
- program demonstrates different comparison operators in Go
+Example demonstrates different comparison operators in Go, like:
+== (equal to)
+!= (not equal to)
+< (less than)
+> (greater than)
+<= (less than or equal to)
+>= (greater than or equal to)
 
-```
+```go
 func main() {
 	x := 3
 	y := 5
@@ -21,7 +27,9 @@ func main() {
 	fmt.Println("x >= y =", x >= y)
 }
 ```
-<a href='https://play.golang.org/p/lbr8W98IwfW' target='_blank'>Try It Out</a>
+
+
+<a href='https://play.golang.org/p/4DDLxqsNZmg' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/comparison-operators.go)
 
