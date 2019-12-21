@@ -5,12 +5,6 @@ layout: default
 # Comparison Operators
 
 Example demonstrates different comparison operators in Go, like:
-== (equal to)
-!= (not equal to)
-< (less than)
-> (greater than)
-<= (less than or equal to)
->= (greater than or equal to)
 
 ```go
 func main() {
@@ -35,7 +29,7 @@ func main() {
 
 ### Output
 
-```
+```bash
 x == y = false
 x != y = true
 x < y  = true
