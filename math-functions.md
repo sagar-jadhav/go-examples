@@ -25,7 +25,7 @@ func pow(base, exp float64) float64 {
 ### Output
 
 ```bash
-2^4 = 16s
+2^4 = 16
 ```
 
 [<< Back](./)

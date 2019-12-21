@@ -15,11 +15,13 @@ type Point struct {
 
 func main() {
 
-	//Then in order to use it we need to initialize it. There are 3 ways to initialize a struct in Go.
+	//Then in order to use it we need to initialize it. 
+	//There are 3 ways to initialize a struct in Go.
 	var c Point
 	c := Point{x: 1, y: 2}
 
-	//Once you have a struct instance you can access its fields using the dot . operator:
+	//Once you have a struct instance 
+	//you can access its fields using the dot . operator:
 
 	fmt.Println(c.x) // 1
 	c.x = 10         //updating value

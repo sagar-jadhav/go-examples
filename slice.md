@@ -76,7 +76,8 @@ func main() {
 }
 
 func print(arr []int, arrName string) {
-	fmt.Printf("Value of Slice '%s' with length %d is %d", arrName, len(arr), arr)
+	fmt.Printf("Value of Slice '%s' with length %d is %d", 
+	 arrName, len(arr), arr)
 	fmt.Println()
 }
 ```

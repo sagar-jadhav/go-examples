@@ -18,7 +18,8 @@ func main() {
 	avengers[4] = "Thor"
 
 	for index := 0; index < len(avengers); index++ {
-		fmt.Printf("Avenger at index [%d] is '%s'", index, avengers[index])
+		fmt.Printf("Avenger at index [%d] is '%s'", 
+			index, avengers[index])
 		fmt.Println()
 	}
 
@@ -56,4 +57,4 @@ Cricketer at index [3] is 'Anil Kumble'
 Cricketer at index [4] is 'Virat Kohli'
 ```
 
-[<< Backs](./)
+[<< Back](./)

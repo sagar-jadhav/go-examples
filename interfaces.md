@@ -12,7 +12,8 @@ type Shape interface {
 	area() float64
 }
 
-// Now in order to "implement" this interface, a type must implement the interface methods defined. For example:
+// Now in order to "implement" this interface, 
+// a type must implement the interface methods defined. For example:
 type Square struct {
 	x1, y1, x2, y2 float64
 }
