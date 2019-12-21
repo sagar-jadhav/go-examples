@@ -56,4 +56,4 @@ The Pull Request template can be found [here](./pull_request_template.html)
 
 * **Sagar Jadhav** - [sagar-jadhav](https://github.com/sagar-jadhav)
 
-## Hit Star ⭐️ & Start learning !!
+## Hit Star & Start learning !!
