@@ -14,28 +14,26 @@ import (
 )
 
 func main() {  
-    b := 255
-	// Saving b's address into variable 'a',
-	// so 'a' is variable of type pointer to the 
-	// base type that is integer.
-    var a *int = &b                       
-    fmt.Printf("Type of a is %T\n", a)
-	fmt.Println("address of b is", a)
-	
-
-   // Creating pointers using the new function
-   // new(Type) is a built in function 
-   // that allocates memory and return address of it
-   size := new(int)  
-   fmt.Printf("Size value is %d, type is %T, 
-    address is %v\n", *size, size, size)
-   *size = 85 
-   fmt.Println("New size value is", *size)
+b: = 255
+// Saving b's address into variable 'a',
+// so 'a' is variable of type pointer to the 
+ // base type that is integer.
+var a * int = & b
+fmt.Printf("Type of a is %T\n", a)
+fmt.Println("address of b is", a)
 
 
+// Creating pointers using the new function
+// new(Type) is a built in function 
+// that allocates memory and return address of it
+size: = new(int)
+fmt.Printf("Size value is %d, type is %T, 
+        address is % v\ n ", *size, size, size) * 
+        size = 85 fmt.Println("New size value is", * size)s
 }
 ```
-https://play.golang.org/p/RlzXQRU2WJl
+
+<a href='https://play.golang.org/p/RlzXQRU2WJl' target='_blank'>Try It Out</a>
 
 [Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
 
