@@ -4,7 +4,7 @@ layout: default
 
 # Functions
 
-Example demonstrates how to write a function in Go programming language along with its usage and different options
+Example demonstrates how to write a function in Go programming language along with its usage and different options. Click [here](https://tour.golang.org/basics/4) to learn more
 
 ```go
 func main() {

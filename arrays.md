@@ -4,7 +4,7 @@ layout: default
 
 # Arrays
 
-Example demonstrates printing arrays on console
+Example demonstrates printing arrays on console. Click [here](https://blog.golang.org/go-slices-usage-and-internals) to learn more
 
 ```go
 func main() {

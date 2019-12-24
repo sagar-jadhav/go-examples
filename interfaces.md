@@ -4,7 +4,8 @@ layout: default
 
 # Interfaces in Go
 
-Go supports interfaces in a different way than other programming languages like Java does. Like a struct, an interface is created using the type keyword, followed by a name and the keyword interface:
+Go supports interfaces in a different way than other programming languages like Java does. Like a struct, an interface is created using the type keyword, followed by a name and the keyword interface.
+Click [here](https://tour.golang.org/methods/10) to learn more
 
 ```go
 type Shape interface {

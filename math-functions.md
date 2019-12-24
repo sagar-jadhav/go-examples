@@ -6,6 +6,7 @@ layout: default
 
 Example demonstrates following Math Functions available in Go:
 - Power: a^b
+Click [here](https://golang.org/pkg/math/) to learn more
 
 ```go
 func main() {

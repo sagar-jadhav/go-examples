@@ -5,6 +5,7 @@ layout: default
 # If-Elseif-Else
 
 Example demonstrates usage of if, elseif and else clause in go. if-elseif-else program demonstrates the conditional statements in the Go programming language. In this program evenOdd function will explain if else block and signToWord program demonstrates if-elseif-else block.
+Click [here](https://tour.golang.org/flowcontrol/7) to learn more
 
 ```go
 package main

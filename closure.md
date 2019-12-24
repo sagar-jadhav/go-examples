@@ -5,6 +5,7 @@ layout: default
 # Closure
 
 Example demonstrates how to declare and use the function inside function in Go programming language. Closures are one of the key aspects of functional programming.
+Click [here](https://tour.golang.org/moretypes/25) to learn more
 
 ```go
 func main() {

@@ -4,7 +4,7 @@ layout: default
 
 # For Loop
 
-Example demonstrates usage of for loop in go.
+Example demonstrates usage of for loop in go. Click [here](https://tour.golang.org/flowcontrol/1) to learn more
 
 ```go
 func main() {

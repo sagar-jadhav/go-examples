@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Boolean-Expressions
-Example demonstrates different boolean expressions in Go like ||,&&,!
+Example demonstrates different boolean expressions in Go like ||,&&,!. Click [here](https://tour.golang.org/basics/11) to learn more
 
 ```go
 func main() {

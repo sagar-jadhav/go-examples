@@ -4,7 +4,7 @@ layout: default
 
 # Format Verbs
 
-Example demonstrates the use of fmt verbs in Go.
+Example demonstrates the use of fmt verbs in Go. Click [here](https://godoc.org/golang.org/x/exp/errors/fmt) to learn more
 
 ```go
 type Food struct {

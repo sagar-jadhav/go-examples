@@ -5,7 +5,8 @@ layout: default
 # Switch Statement
 
 Example demonstrates working of Switch Statement 
-using the sign to word program
+using the sign to word program.
+Click [here](https://tour.golang.org/flowcontrol/9) to learn more
 
 ```go
 func main() {

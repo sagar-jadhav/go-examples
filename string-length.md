@@ -4,7 +4,8 @@ layout: default
 
 # String Length
 
-Example demonstrates how to calculate length of string
+Example demonstrates how to calculate length of string.
+Click [here](https://tour.golang.org/moretypes/11) to learn more
 
 ```go
 func main() {

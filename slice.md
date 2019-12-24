@@ -4,7 +4,8 @@ layout: default
 
 # Slice
 
-Example slice program will demonstrate the working and syntax of slices in the Go programming language along with use of append & copy functions
+Example demonstrates working and syntax of Slices in Go along with usage of append & copy functions.
+Click [here](https://tour.golang.org/moretypes/7) to learn more
 
 ```go
 import "fmt"

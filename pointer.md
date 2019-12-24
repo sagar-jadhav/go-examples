@@ -5,6 +5,7 @@ layout: default
 # Pointer
 
 Example demonstrates pointer. Pointer allowing you to pass references to values and records within your program.
+Click [here](https://tour.golang.org/moretypes/1) to learn more
 
 ```go
 func main() {

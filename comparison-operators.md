@@ -5,6 +5,7 @@ layout: default
 # Comparison Operators
 
 Example demonstrates different comparison operators in Go. Comparison operators are used to evaluate values to boolean value of either true or false.
+Click [here](https://golang.org/ref/spec#Arithmetic_operators) to learn more
 
 ```go
 func main() {

@@ -4,7 +4,7 @@ layout: default
 
 # Map
 
-Example demonstrates usage of map in go.
+Example demonstrates usage of map in go. Click [here](https://tour.golang.org/moretypes/19) to learn more
 
 ```go
 func main() {

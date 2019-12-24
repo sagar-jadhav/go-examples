@@ -2,9 +2,10 @@
 layout: default
 ---
 
-# STRUCT
+# Structs
 
 Example demonstrates structs. Structs are used to group one of more fields of logical types together.
+Click [here](https://tour.golang.org/moretypes/2) to learn more
 
 ```go
 //For example we could represent a Point struct as:
