@@ -28,8 +28,8 @@ fmt.Println("address of b is", a)
 // that allocates memory and return address of it
 size: = new(int)
 fmt.Printf("Size value is %d, type is %T, 
-        address is % v\ n ", *size, size, size) * 
-        size = 85 fmt.Println("New size value is", * size)s
+        address is % v\n ", *size, size, size) * 
+        size = 85 fmt.Println("New size value is", * size)
 }
 ```
 
