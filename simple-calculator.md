@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Simple Calculator
+# Variable Declaration
 
 Example demonstrates different approaches to assigning values to variables, and performing mathematical operations on those variables.
 
