@@ -53,9 +53,6 @@ func main() {
 	}
 }
 ```
-<a href='https://play.golang.org/p/GklbzQqmNsQ' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go)
 
 ### Output
 
@@ -174,4 +171,9 @@ A Apple
 B Ball
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/GklbzQqmNsQ' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/for-loop.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Switch Statement](./switch.html) | [Next >> Functions](./function.html)
