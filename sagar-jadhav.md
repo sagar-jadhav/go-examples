@@ -14,4 +14,4 @@ layout: default
 
 [YouTube](https://bit.ly/2zmBG31) | [Linkedin](https://www.linkedin.com/in/SagarJadhv23) | [Twitter](https://twitter.com/SagarJadhv23)
 
-[<< Back](./)
+[<< Home Page](./)
