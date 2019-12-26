@@ -2,12 +2,12 @@
 The purpose of **go-examples** project is to learn Go programming language through simple programs which will cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with the basics in order to understand any programming language easily, Same concept will be applied to **go-examples** as well. I have started with the basics and then slowly moving to complex concepts.
 
 ## Getting Started
-Clone [go-examples](https://github.com/sagar-jadhav/go-examples.git) and open with any text editor or IDE. I prefer [Atom](https://atom.io/) to work with Go programming language.
+Clone <a href='https://github.com/sagar-jadhav/go-examples.git' target='_blank'>go-examples</a> and open with any text editor or IDE. I prefer <a href='https://atom.io/' target='_blank'>Atom</a> to work with Go programming language.
 
 ## Prerequisites
 
 To perform hands-on on **go-examples** it is prerequisite to have Go installed on your machine.
-[Steps to install Go](https://golang.org/doc/install?download)
+<a href='https://golang.org/doc/install?download' target='_blank'>Steps to install Go</a>
 
 ## Contents
 
@@ -52,11 +52,11 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 4. Push your work back up to your fork
 5. Submit a Pull request so that we can review your changes
 
-The Pull Request template can be found [here](./pull_request_template.html)
+The Pull Request template can be found <a href='./pull_request_template.html' target='_blank'>here</a>
 
 ## Authors
 
-- [Prabhat Agarwal](./prabhat-agarwal.html)
-- [Sagar Jadhav](./sagar-jadhav.html)
+- <a href='./prabhat-agarwal.html' target='_blank'>Prabhat Agarwal</a>
+- <a href='./sagar-jadhav.html' target='_blank'>Sagar Jadhav</a>
 
 ## Hit Star & Start learning !!

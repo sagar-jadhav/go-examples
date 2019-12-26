@@ -12,9 +12,7 @@ func main() {
 }
 ```
 
-<a href='https://play.golang.org/p/bQuOiBTBOZs' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go)
+<a href='https://play.golang.org/p/bQuOiBTBOZs' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/hello-world.go' target='_blank'>Source Code</a>
 
 ### Output
 
@@ -22,4 +20,4 @@ func main() {
 Hello World!
 ```
 
-[<< Back](./)
+[<< Home Page](./) | [Next >> Variable Declaration](./simple-calculator.html)
