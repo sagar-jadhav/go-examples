@@ -41,11 +41,6 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 * <a href='./http_srv.html' target='_blank'>HTTP CRUD</a>
 * <a href='./http_get.html' target='_blank'>HTTP GET</a>
  
-## Authors
-
-- <a href='./prabhat-agarwal.html' target='_blank'>Prabhat Agarwal</a>
-- <a href='./sagar-jadhav.html' target='_blank'>Sagar Jadhav</a>
-
 ## Contributing
 
 Pull requests are welcome. I will appreciate any help on either enhancing existing example/program or addition of new example/program.
@@ -58,4 +53,9 @@ Pull requests are welcome. I will appreciate any help on either enhancing existi
 
 The Pull Request template can be found <a href='./pull_request_template.html' target='_blank'>here</a>
 
-#### Report <a href='https://github.com/sagar-jadhav/go-examples/issues' target='_blank'>here</a> any issues or suggestions related to examples
+## Authors
+
+- <a href='./prabhat-agarwal.html' target='_blank'>Prabhat Agarwal</a>
+- <a href='./sagar-jadhav.html' target='_blank'>Sagar Jadhav</a>
+
+### Report any issues or suggestions related to examples <a href='https://github.com/sagar-jadhav/go-examples/issues' target='_blank'>here</a>
