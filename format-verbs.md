@@ -68,9 +68,6 @@ func main() {
 	fmt.Printf("%.2f | %.2f\n", pi, eulers)
 }
 ```
-<a href='https://play.golang.org/p/_CDBhxBHGnV' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/format-verbs.go)
 
 ### Output
 
@@ -86,4 +83,6 @@ The top selling books are: ["The Overstory" "Alias Grace"]
 3.14 | 2.72
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/_CDBhxBHGnV' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/format-verbs.go' target='_blank'>Source Code</a>
+
+[<< Home Page](./) | [Previous << Math functions](./math-functions.html) | [Next >> String length](./string-length.html)

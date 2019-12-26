@@ -64,11 +64,8 @@ func main() {
 	}
 }
 ```
-<a href='https://play.golang.org/p/HYTVd0XK6ms' target='_blank'>Try It Out</a>
 
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go)
-
-# Output
+### Output
 
 ```bash
 map[B:Ball C:Cat A:Apple]
@@ -85,4 +82,10 @@ Virat
 Dhoni
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/HYTVd0XK6ms' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/map.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+- <a href='https://github.com/ilmanzo' target='_blank'>Andrea Manzini</a>
+
+[<< Home Page](./) | [Previous << Slice](./slice.html) | [Next >> Interface](./interfaces.html)

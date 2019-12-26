@@ -63,8 +63,6 @@ func main() {
 }
 ```
 
-[Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/http_get.go)
-
 ### Output
 
 ```bash
@@ -85,4 +83,9 @@ func main() {
 }
 ```
 
-[<< Back](./)
+<a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/http_get.go' target='_blank'>Source code</a>
+
+### Contributors
+- <a href='https://github.com/aprabhat' target='_blank'>Prabhat Agarwal</a>
+
+[<< Home Page](./) | [Previous << HTTP CRUD](./http_srv.html)

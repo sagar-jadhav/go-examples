@@ -21,11 +21,6 @@ func main() {
 }
 ```
 
-
-<a href='https://play.golang.org/p/4DDLxqsNZmg' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/comparison-operators.go)
-
 ### Output
 
 ```bash
@@ -37,4 +32,9 @@ x <= y = true
 x >= y = false
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/4DDLxqsNZmg' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/comparison-operators.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/robihdy' target='_blank'>Robi Hidayat</a>
+
+[<< Home Page](./) | [Previous << Boolean Expressions](./boolean-expressions.html) | [Next >> Math functions](./math-functions.html)

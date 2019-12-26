@@ -165,6 +165,9 @@ curl http://localhost:8080/people
 ### Output: {}
 ```
 
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/http_srv.go)
+<a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/http_srv.go' target='_blank'>Source Code</a>
 
-[<< Back](./)
+### Contributors
+- <a href='https://github.com/davidkroell' target='_blank'>David Kröll</a>
+
+[<< Home Page](./) | [Previous << Concurrency](./concurrency.html) | [Next >> HTTP GET](./http_get.html)

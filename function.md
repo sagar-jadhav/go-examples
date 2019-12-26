@@ -56,11 +56,6 @@ func returnMultipleValues() (string, string) {
 }
 ```
 
-
-<a href='https://play.golang.org/p/Vedn4G1NuSu' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go)
-
 ### Output
 
 ```bash
@@ -69,4 +64,9 @@ Hello Go!
 Hello World
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/Vedn4G1NuSu' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/function.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << For Loop](./for-loop.html) | [Next >> Variadic Functions](./variadic.html)

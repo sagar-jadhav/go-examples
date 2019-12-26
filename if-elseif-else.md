@@ -51,11 +51,8 @@ func signToWord() {
 	fmt.Println()
 }
 ```
-<a href='https://play.golang.org/p/F2vRhPoQU-e' target='_blank'>Try It Out</a>
 
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go)
-
-# Output
+### Output
 
 ```bash
 Number 1 is Odd
@@ -72,4 +69,9 @@ Sign = is equal to
 Apple
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/F2vRhPoQU-e' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/if-elseif-else.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Variable Declaration](./simple-calculator.html) | [Next >> Switch Statement](./switch.html)

@@ -112,11 +112,6 @@ func main() {
 }
 ```
 
-
-<a href='https://play.golang.com/p/X4GUPGKriPY' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go)
-
 ### Output
 
 ```bash
@@ -149,4 +144,7 @@ STACK UNDERFLOW!
 POP: 0
 ```
 
-[<< Back](./)
+<a href='https://play.golang.com/p/X4GUPGKriPY' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/stack.go' target='_blank'>Source Code</a>
+
+[<< Home Page](./) | [Previous << Struct](./struct.html) | [Next >> Unit Test](./unit-test.html)
+

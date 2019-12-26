@@ -31,15 +31,18 @@ func main() {
 }
 
 ```
-
-<a href='https://play.golang.org/p/3WTvfovnEXn' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go)
-
 ### Output
 
 ```bash
 1
 10
 ```
-[<< Back](./)
+
+<a href='https://play.golang.org/p/3WTvfovnEXn' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/struct.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/LukaJaj' target='_blank'>Luka Jajanidze</a>
+- <a href='https://github.com/mmichaelb' target='_blank'>Michael B.</a>
+- <a href='https://github.com/aprabhat' target='_blank'>Prabhat Agarwal</a>
+
+[<< Home Page](./) | [Previous << Interface](./interfaces.html) | [Next >> Stack](./stack.html)

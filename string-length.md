@@ -14,9 +14,6 @@ func main() {
 	 "string is", len(repositoryName))
 }
 ```
-<a href='https://play.golang.org/p/ah2oqRSXvcM' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go)
 
 ### Output
 
@@ -24,4 +21,9 @@ func main() {
 Length of go-examples string is 11
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/ah2oqRSXvcM' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/string-length.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Format Verbs](./format-verbs.html) | [Next >> Pointer](./pointer.html)

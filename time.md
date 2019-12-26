@@ -106,11 +106,7 @@ func main() {
 }
 ```
 
-<a href='https://play.golang.org/p/0O_ndbXDkz5' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/time.go)
-
-## Output
+### Output
 
 ```plain
 2019-11-01 13:33:05.447554 -0500 CDT m=+0.003996301
@@ -135,4 +131,10 @@ CDT -18000
 2004
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/0O_ndbXDkz5' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/time.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/AnaCr' target='_blank'>Ana Cruz</a>
+
+[<< Home Page](./) | [Next >> Concurrency](./concurrency.html)
+

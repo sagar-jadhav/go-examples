@@ -38,9 +38,6 @@ func main() {
 	}
 }
 ```
-<a href='https://play.golang.org/p/f3UzBIDZQmy' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go)
 
 ### Output
 
@@ -57,4 +54,9 @@ Cricketer at index [3] is 'Anil Kumble'
 Cricketer at index [4] is 'Virat Kohli'
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/f3UzBIDZQmy' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/arrays.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Pointer](./pointer.html) | [Next >> Slice](./slice.html)

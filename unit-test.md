@@ -50,5 +50,7 @@ ok      calc    0.088s
 with `go test`, you can test your all `_test.go` function with `Testblabla....` functions.
 There are many `test` command options, like `-v` and `-coverage`, and you can easily find it on the go [site](https://golang.org/cmd/go/#hdr-Testing_flags)
 
+### Contributors
+- <a href='https://github.com/rajkumarGosavi' target='_blank'>Rajkumar</a>
 
-[<< Back](./)
+[<< Home Page](./) | [Previous << Stack](./stack.html) 

@@ -82,9 +82,6 @@ func print(arr []int, arrName string) {
 	fmt.Println()
 }
 ```
-<a href='https://play.golang.org/p/TTiY5rd1h5r' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go)
 
 ### Output
 
@@ -103,4 +100,9 @@ Number of values copied is 2
 Value of Slice 'sliceX' with length 2 is [3 4]
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/TTiY5rd1h5r' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/slice.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Arrays](./arrays.html) | [Next >> Map](./map.html)

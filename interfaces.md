@@ -35,9 +35,6 @@ func main() {
 }
 
 ```
-<a href='https://play.golang.org/p/fVjFIddO0VP' target='_blank'>Try It Out</a>
-
-[Source code](https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go)
 
 ### Output
 
@@ -45,4 +42,12 @@ func main() {
 25
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/fVjFIddO0VP' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/interfaces.go' target='_blank'>Source code</a>
+
+### Contributors
+- <a href='https://github.com/chanceeakin' target='_blank'>Chance</a>
+- <a href='https://github.com/LukaJaj' target='_blank'>Luka Jajanidze</a>
+- <a href='https://github.com/aprabhat' target='_blank'>Prabhat Agarwal</a>
+- <a href='https://github.com/mmichaelb' target='_blank'>Michael B.</a>
+
+[<< Home Page](./) | [Previous << Map](./map.html) | [Next >> Struct](./struct.html)

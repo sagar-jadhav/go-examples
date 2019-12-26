@@ -54,9 +54,6 @@ func returnFunction() func() string {
 }
 
 ```
-<a href='https://play.golang.org/p/8Y_XC1cgziU' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go)
 
 ### Ouput
 
@@ -66,4 +63,9 @@ Hello-World!
 Greetings from Go!
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/8Y_XC1cgziU' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/closure.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Variadic Functions](./variadic.html) | [Next >> Recursion](./recursion.html)

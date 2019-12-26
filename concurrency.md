@@ -39,11 +39,6 @@ func main() {
 }
 ```
 
-
-<a href='https://play.golang.org/p/8FCyiZ2HHhS' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go)
-
 ### Output
 
 ```bash
@@ -59,4 +54,6 @@ func main() {
 29
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/8FCyiZ2HHhS' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/concurrency.go' target='_blank'>Source Code</a>
+
+[<< Home Page](./) | [Previous << Time](./time.html) | [Next >> HTTP CRUD](./http_srv.html)

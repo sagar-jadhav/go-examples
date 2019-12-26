@@ -24,15 +24,15 @@ func main() {
 }
 ```
 
-
-<a href='https://play.golang.com/p/2FMbm1koSBi' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go)
-
 ### Output
 
 ```bash
 Equal To
 ```
 
-[<< Back](./)
+<a href='https://play.golang.com/p/2FMbm1koSBi' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/switch.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << If Else Statement](./if-elseif-else.html) | [Next >> For Loop](./for-loop.html)

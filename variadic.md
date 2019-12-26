@@ -30,9 +30,6 @@ func printNumbers(numbers ...int) {
 	}
 }
 ```
-<a href='https://play.golang.org/p/jO0EqOanaQF' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go)
 
 ### Output
 
@@ -43,4 +40,9 @@ Number at index 0 is 1
 Number at index 1 is 2
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/jO0EqOanaQF' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/variadic.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << Functions](./function.html) | [Next >> Closure](./closure.html)

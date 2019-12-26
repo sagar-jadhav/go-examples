@@ -39,10 +39,6 @@ func manipulatePointerValue(input *int) {
 }
 ```
 
-<a href='https://play.golang.org/p/RlzXQRU2WJl' target='_blank'>Try It Out</a>
-
-[Source Code](https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go)
-
 # Output
 
 ```bash
@@ -53,4 +49,12 @@ New size value is 85
 New size value is 170
 ```
 
-[<< Back](./)
+<a href='https://play.golang.org/p/RlzXQRU2WJl' target='_blank'>Try It Out</a> | <a href='https://github.com/sagar-jadhav/go-examples/blob/master/src/pointer.go' target='_blank'>Source Code</a>
+
+### Contributors
+- <a href='https://github.com/LukaJaj' target='_blank'>Luka Jajanidze</a>
+- <a href='https://github.com/mmichaelb' target='_blank'>Michael B.</a>
+- <a href='https://github.com/aprabhat' target='_blank'>Prabhat Agarwal</a>
+- <a href='https://github.com/sagar-jadhav' target='_blank'>Sagar Jadhav</a>
+
+[<< Home Page](./) | [Previous << String length](./string-length.html) | [Next >> Arrays](./arrays.html)
