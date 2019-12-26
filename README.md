@@ -12,7 +12,7 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 ## Contents
 
 ### Basic
-* [Hello World](./hello-world.html)
+* <a href='./hello-world.html' target='_blank'>Hello World</a>
 * [Variable Declaration](./simple-calculator.html)
 * [If Else Statement](./if-elseif-else.html)
 * [Switch Statement](./switch.html)
