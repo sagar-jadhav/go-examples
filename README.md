@@ -1,6 +1,14 @@
 # Learn Go programming language with simple examples
 The purpose of **go-examples** project is to learn Go programming language through simple programs which will cover all the concepts & syntax of Go programming language. Instead of directly going deep dive into complex concepts it is always better to start with the basics in order to understand any programming language easily, Same concept will be applied to **go-examples** as well. I have started with the basics and then slowly moving to complex concepts.
 
+## Why learn Go!
+“Go will be the server language of the future.” — Tobias Lütke, Shopify
+
+1) Its Open Source!
+2) Go focuses on simplicity, conciseness, readability ,concurrency and performance.
+3) Go has rich support for concurrency using goroutines and channels.
+4) Code written in Go is easy to maintain.
+
 ## Getting Started
 Clone <a href='https://github.com/sagar-jadhav/go-examples.git' target='_blank'>go-examples</a> and open with any text editor or IDE. I prefer <a href='https://atom.io/' target='_blank'>Atom</a> to work with Go programming language.
 
