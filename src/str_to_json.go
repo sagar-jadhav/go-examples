@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-// Laptop has neccessary feilds
+// Laptop has neccessary fields
 type Laptop struct {
 	ID          int64   `json:"id"`
 	Model       string  `json:"model"`
