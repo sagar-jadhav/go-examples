@@ -20,34 +20,34 @@ To perform hands-on on **go-examples** it is prerequisite to have Go installed o
 ## Contents
 
 ### Basic
-* <a href='./hello-world.html' target='_blank'>Hello World</a>
-* <a href='./simple-calculator.html' target='_blank'>Variable Declaration</a>
-* <a href='./if-elseif-else.html' target='_blank'>If Else Statement</a>
-* <a href='./switch.html' target='_blank'>Switch Statement</a>
-* <a href='./for-loop.html' target='_blank'>For Loop</a>
-* <a href='./function.html' target='_blank'>Functions</a>
-* <a href='./variadic.html' target='_blank'>Variadic Functions</a>
-* <a href='./closure.html' target='_blank'>Closure</a>
-* <a href='./recursion.html' target='_blank'>Recursion</a>
-* <a href='./boolean-expressions.html' target='_blank'>Boolean Expressions</a>
-* <a href='./comparison-operators.html' target='_blank'>Comparison Operators</a>
-* <a href='./math-functions.html' target='_blank'>Math functions</a>
-* <a href='./format-verbs.html' target='_blank'>Format Verbs</a>
-* <a href='./string-length.html' target='_blank'>String length</a>
-* <a href='./pointer.html' target='_blank'>Pointer</a>
-* <a href='./arrays.html' target='_blank'>Arrays</a>
-* <a href='./slice.html' target='_blank'>Slice</a>
-* <a href='./map.html' target='_blank'>Map</a>
-* <a href='./interfaces.html' target='_blank'>Interface</a>
-* <a href='./struct.html' target='_blank'>Struct</a>
-* <a href='./stack.html' target='_blank'>Stack</a>
-* <a href='./unit-test.html' target='_blank'>Unit Test</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/hello-world.html' target='_blank'>Hello World</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/simple-calculator.html' target='_blank'>Variable Declaration</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/if-elseif-else.html' target='_blank'>If Else Statement</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/switch.html' target='_blank'>Switch Statement</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/for-loop.html' target='_blank'>For Loop</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/function.html' target='_blank'>Functions</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/variadic.html' target='_blank'>Variadic Functions</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/closure.html' target='_blank'>Closure</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/recursion.html' target='_blank'>Recursion</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/boolean-expressions.html' target='_blank'>Boolean Expressions</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/comparison-operators.html' target='_blank'>Comparison Operators</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/math-functions.html' target='_blank'>Math functions</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/format-verbs.html' target='_blank'>Format Verbs</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/string-length.html' target='_blank'>String length</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/pointer.html' target='_blank'>Pointer</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/arrays.html' target='_blank'>Arrays</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/slice.html' target='_blank'>Slice</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/map.html' target='_blank'>Map</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/interfaces.html' target='_blank'>Interface</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/struct.html' target='_blank'>Struct</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/stack.html' target='_blank'>Stack</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/unit-test.html' target='_blank'>Unit Test</a>
 
 ### Advance
-* <a href='./time.html' target='_blank'>Time</a>
-* <a href='./concurrency.html' target='_blank'>Concurrency</a>
-* <a href='./http_srv.html' target='_blank'>HTTP CRUD</a>
-* <a href='./http_get.html' target='_blank'>HTTP GET</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/time.html' target='_blank'>Time</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/concurrency.html' target='_blank'>Concurrency</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/http_srv.html' target='_blank'>HTTP CRUD</a>
+* <a href='https://sagar-jadhav.github.io/go-examples/http_get.html' target='_blank'>HTTP GET</a>
  
 ## Contributing
 
