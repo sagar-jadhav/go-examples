@@ -63,7 +63,7 @@ The Pull Request template can be found <a href='./pull_request_template.html' ta
 
 ## Authors
 
-- <a href='./prabhat-agarwal.html' target='_blank'>Prabhat Agarwal</a>
-- <a href='./sagar-jadhav.html' target='_blank'>Sagar Jadhav</a>
+- <a href='https://sagar-jadhav.github.io/go-examples/prabhat-agarwal.html' target='_blank'>Prabhat Agarwal</a>
+- <a href='https://sagar-jadhav.github.io/go-examples/sagar-jadhav.html' target='_blank'>Sagar Jadhav</a>
 
 ### Report any issues or suggestions related to examples <a href='https://github.com/sagar-jadhav/go-examples/issues/new' target='_blank'>here</a>

@@ -3,10 +3,10 @@ layout: default
 ---
 
 ### Sagar Jadhav
-#### Backend Developer (Cloud) | Speaker | Cloud Technology Enthusiast
+#### Software Engineer
 
 - Seasoned Software Developer & Passionate Technical Speaker
-- Having 6+ years of experience in Software Development
+- Having 8+ years of experience in Software Development
 - Experience in wide range of Backend & DevOps technologies such as Java, Node JS, Golang, JavaScript, IBM Cloud, Docker, Kubernetes, Terraform, Spring Boot & Microservices
 - Passionate about learning new technologies related to Cloud Native Application Development
 - Speaker at different Meet Ups, Technical Conferences & Webinars
